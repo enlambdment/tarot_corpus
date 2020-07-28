@@ -7,12 +7,13 @@ import copy
 
 
 
-def url_to_soup(url):
+def url_to_soup(url, parser='html.parser'):
 	'''
-	Given the url for a text's front page, get its parsed HTML.
+	Given the url for a text's front page, and an HTML parser 
+	(e.g. 'html.parser', 'html5lib', 'lxml'), get its parsed HTML.
 	'''
 	url_r = requests.get(url)
-	url_soup = bs4.BeautifulSoup(url_r.text, 'html.parser')
+	url_soup = bs4.BeautifulSoup(url_r.text, parser)
 	return url_soup
 
 def get_text_name(url):
@@ -36,10 +37,11 @@ def name_htm_search(name):
 	name_comp = re.compile(name_re)
 	return name_comp
 
-def get_sub_htms(url):
+def get_sub_htms(url, parser='html.parser'):
 	'''
-	Given the front page of a text, extract all the subsection .htm suffixes
-	(to append onto the root path later)
+	Given the front page of a text, and an HTML parser 
+	(e.g. 'html.parser', 'html5lib', 'lxml'), extract all the 
+	subsection .htm suffixes (to append onto the root path later)
 	'''
 	# fix url, if not in suitable format
 	url = url.replace("/index.htm", "")
@@ -47,7 +49,7 @@ def get_sub_htms(url):
 	txt_name = get_text_name(url)
 	valid_htms_search = name_htm_search(txt_name)
 
-	index_soup = url_to_soup(url)
+	index_soup = url_to_soup(url, parser)
 	index_as = index_soup.find_all('a')
 
 	valid_htms = []
@@ -161,9 +163,10 @@ def process_soup(soup, htms):	# -> (str, List[bs4.element.Tag])
 
 	return output_str, output_tbls
 
-def make_file_for_corpus(url): # -> None
+def make_file_for_corpus(url, parser='html.parser'): # -> None
 	'''
-	Given an url, produce a file for the corpus text extracted from that
+	Given an url, and an HTML parser (e.g. 'html.parser', 'html5lib', 'lxml'),
+	produce a file for the corpus text extracted from that
 	url, filename based upon final non-"index.htm" section of url path,
 	in ./data/tarot_guide corpus directory, if one does not exist.
 
@@ -187,7 +190,7 @@ def make_file_for_corpus(url): # -> None
 	# files do not exist yet
 	if not txt_mkpath.is_file() and not tbl_mkpath.is_file():
 		# derive subsection htm suffixes
-		txt_sub_htms = get_sub_htms(url)
+		txt_sub_htms = get_sub_htms(url, parser)
 
 		with txt_mkpath.open(mode='a+') as f_txt, \
 			 tbl_mkpath.open(mode='a+') as f_tbl:
@@ -195,7 +198,7 @@ def make_file_for_corpus(url): # -> None
 				# derive subsection full url
 				txt_sub_url = sub_htm_to_full_sub_url(txt_sub_htm, url)
 				# extract text / table data
-				fsu_soup = url_to_soup(txt_sub_url)
+				fsu_soup = url_to_soup(txt_sub_url, parser)
 				fsu_text, fsu_tbls = process_soup(fsu_soup, txt_sub_htms)
 				# append to f_txt
 				f_txt.write(fsu_text)
@@ -204,9 +207,10 @@ def make_file_for_corpus(url): # -> None
 					f_tbl.write(str(tbl))
 
 # put this into a separate 'main.py' file?
-def make_corpus():
+def make_corpus(parser='html.parser'):
 	'''
-	Use 'tarot_front_pages.txt', at the same directory level as this Python
+	Given an HTML parser (e.g. 'html.parser', 'html5lib', 'lxml'),
+	use 'tarot_front_pages.txt', at the same directory level as this Python
 	file, to get a list of tarot-text front pages & extract corpus texts from
 	each.
 	'''
@@ -218,6 +222,6 @@ def make_corpus():
 	corpus_urls = [url.strip() for url in corpus_urls]
 
 	for corp_url in corpus_urls:
-		make_file_for_corpus(corp_url)
+		make_file_for_corpus(corp_url, parser)
 
 
