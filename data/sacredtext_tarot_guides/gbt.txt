@@ -2,8 +2,7 @@ General Book of the Tarot by A. E. Thierens Introduction by A. E. Waite D. McKay
 Scanned at sacred-texts.com, November 2006. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was not renewed at the US Copyright Office in a timely fashion as required by law at the time. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact in all copies.
 
 
-
-
+Next: Contents
 CONTENTS    
    
    
@@ -82,11 +81,10 @@ II.
 159    
 
 
-
-
+Next: Introduction
 INTRODUCTION
 
-F ever a book should be written on the Romance of Symbolism, its hypothesis of interpretation, its traditional and imputed histories, a considerable space would be allotted assuredly to Tarot-cards; while seeing that at this day there is more concern in the subject than was felt even in the past, there would be a call not only to survey that which lies behind us, a strange field of speculation and reverie, but the prospect extending in front, since every year brings forth some new proposition and provides material for future imaginative flights. It is very curious to contrast those comparatively sober terms in which Court de Gebelin introduced his discovery of the cards, * though he sought to prove that their origin was in Ancient Egypt, with the fantastic declamations of Éliphas Lévi, who affirmed not only that they were the Alphabet of Enoch, Hermes Trismegistus and Cadmus but the Gospel of all Gospels, a synthesis of science and the universal key of the Kabbalah.
+F ever a book should be written on the Romance of Symbolism, its hypothesis of interpretation, its traditional and imputed histories, a considerable space would be allotted assuredly to Tarot-cards; while seeing that at this day there is more concern in the subject than was felt even in the past, there would be a call not only to survey that which lies behind us, a strange field of speculation and reverie, but the prospect extending in front, since every year brings forth some new proposition and provides material for future imaginative flights. It is very curious to contrast those comparatively sober terms in which Court de Gebelin introduced his discovery of the cards, * though he sought to prove that their origin was in Ancient Egypt, with the fantastic declamations of Éliphas Lévi, who affirmed not only that they were the Alphabet of Enoch, Hermes Trismegistus and Cadmus but the Gospel of all Gospels, a synthesis of science and the universal key of the Kabbalah.  
 De Gebelin was a man of learning at his own period and remained within the circle of facts, actual or supposed, as he saw and read them. His successor was a man of extravagant mind, who contemplated past and future alike through a glass of vision, and so beheld all faërie unfold its images. The occult happenings of the past became in the process as much a matter of invention as his own notions. The inventions were decorative and were even characterised at times by a magian quality of intuition; but in most cases his record of past events was like his reading of things to come. His tale of the Knights Templar, his intimations on the Rosy Cross, his survey of alchemical literature are in much the same category as his prognostications about a parliament of nations under an universal monarchy ruled by a King of France. He
 
 
@@ -126,11 +124,10 @@ Footnotes
 12:* See my annotated translation, entitled Transcendental Magic: Its Doctrine and Ritual, new and revised edition, 1923.
 
 
-
-
+Next: The Doctrine
 THE GENERAL BOOK OF THE TAROT I THE DOCTRINE
 
-HE knowledge of the Tarot, handed down to us through the ages, and as we find it at the beginning of the XXth century, can be traced in the writings of many authors. Its most perfect interpretations until now are to be found in the works of Éliphas Lévi (Dogme et Rituel de la Haute Magie) and Dr. Papus (Le Tarot des Bohémiens and Le Tarot Divinatoire). These may be said to represent the best results of earlier times, including Eteilla and P. Christian.
+HE knowledge of the Tarot, handed down to us through the ages, and as we find it at the beginning of the XXth century, can be traced in the writings of many authors. Its most perfect interpretations until now are to be found in the works of Éliphas Lévi (Dogme et Rituel de la Haute Magie) and Dr. Papus (Le Tarot des Bohémiens and Le Tarot Divinatoire). These may be said to represent the best results of earlier times, including Eteilla and P. Christian.  
 A booklet by S. L. MacGregor Mathers, an author well known for his works on subjects relating to the Kabbalah, quotes J. F. Vaillant (1857) as saying "that it (the Tarot) belongs to the beginning of our time, to the epoch of the preparation of the zodiac . . ." and ". . . The great divinity Ashtarot, As-Tarot, is no other than the Indo-Tartar Tan-tara, the Tarot, the Zodiac."
 This is curious, and we wonder if one or the other ever worked out so much as a real scheme of this relationship between the Tarot system and the
 
@@ -147,8 +144,7 @@ published in England, and issued with Mr. Waite's booklet. The designs on these 
 The symbolical system of the Tarot consists of 78 picture cards of which 22 constitute the Major Arcana or Trumps Major, 56 (4 × 14) the Minor Arcana, Trumps Minor. As far as we know the idea of analogy with the zodiacal mysteries has, until now, found no further practical realisation than a rather diffuse comparison of the four 'colours' or suits in the Lesser Arcana with the Four Elements in the Cosmos, as we find them in astrology.
 
 
-
-
+Next: The Lesser Arcana
 THE LESSER ARCANA
 The pack of cards of the Lesser Arcana has been generally acknowledged as the origin of our ordinary playing-cards, though subsequent authorities do not wholly agree upon this point. Thus we find Dr. Papus saying:
 ". . . wands have become the clubs (or trèfles) of our present playing-cards, cups have become hearts, swords have become spades and pentacles have become diamonds." (Chapter I.)
@@ -699,8 +695,7 @@ Footnotes
 17:* In a very special way the four-bladed shamrock is considered to convey luck. This evidently means that the luck will be effective or real, practical, when "the Three fall into the Four" according to the old saying in the Stanza's of Dzyan.
 
 
-
-
+Next: The Greater Arcana
 THE GREATER ARCANA
 In the Greater Arcana competent authors on the subject have rightly seen a system of rendering or symbolising the great cosmic principles of Creation per se. Not in relation to any special plane or element but above these, and consequently to be considered as the abstract origin of all and everything in the Lesser Arcana.
 Papus gives us the descriptions of the Greater
@@ -800,8 +795,7 @@ while:
 We shall treat everyone of these cards in its turn hereafter. First let us have the scheme at large.
 
 
-
-
+Next: The Method of Divination
 THE METHOD OF DIVINATION
 In the same way as the Chinese Book I-Ging originally was edited or taught as a book of wisdom and insight into universal principles and stages of being and becoming, happenings in the eternal process of evolution in the nature of the world and of men, so the beautiful pictures of the Tarot system
 
@@ -838,16 +832,14 @@ In the next part, however, we hope to explain the significance of the cards suff
 
 
 
-
-
+Next: The Greater Arcana
 II SIGNIFICANCE OF THE CARDS THE GREATER ARCANA
 
-HE significance of the cards--Greater as well as Lesser Arcana--as it has been delivered through the ages, is often remarkably accurate, as far as can be verified. In what way, however, it has come down to us, and what reasonable ground there may be for the given meanings, remain mysteries, not to be elucidated by the present author. By verification we mean theoretical consideration on the basis both of astrological systematics and of the practice of divination. The fact is, that the traditional significance is generally in accordance with the astrological explanation of the cards as we have given it here, though this explanation has not yet been offered by any author before, as far as we know. So we may conclude, that this key has been lost or has been hidden from those who kept the practice alive and left the system to us.
+HE significance of the cards--Greater as well as Lesser Arcana--as it has been delivered through the ages, is often remarkably accurate, as far as can be verified. In what way, however, it has come down to us, and what reasonable ground there may be for the given meanings, remain mysteries, not to be elucidated by the present author. By verification we mean theoretical consideration on the basis both of astrological systematics and of the practice of divination. The fact is, that the traditional significance is generally in accordance with the astrological explanation of the cards as we have given it here, though this explanation has not yet been offered by any author before, as far as we know. So we may conclude, that this key has been lost or has been hidden from those who kept the practice alive and left the system to us.  
 In the following pages we shall give the meaning of both Greater and Lesser Arcana after the astrological theory expounded by us, together with a short résumé of the traditional significance, the latter taken chiefly from Papus and from the renderings of Mr. Waite. For the sake of shortness and simplicity we shall mark our quotations with P for Papus, W for A. E. Waite, M for S. L. MacGregor Mathers.
 
 
-
-
+Next: I. The Magician. Aries
 I. The Magician. Aries.
 The first sign or house in the Zodiac is the first step in the direction of Manifestation, and Aries is the High Priest as well as Avidya or Ignorance, standing before, c.q. above cognition. Potency and power are its attributes, because all and everything is immanent in this stage of Beginning. Power abstract, undeveloped, simple, but for that reason mightier than every detail or phenomenon, and the master of Nature. The ultra-positive, the very superior, and in the lower human sense the ultra-egotistical. Like the first note of a composition in music, it determines the tone and gives the key. From the First spring the Four, and so the symbols of the Four Elements appear on the table of the Magician, though his action, as far as action goes in this card and principle, exists in potency only and is indicated consequently in the wand in his right hand. In his superior abstractness he is eternal in relation to the phenomenal world, which is indicated by the symbols of Eternity above his head, the lemnescate, and around his waist, the serpent.
 W.: "This card signifies the divine motive in man, reflecting God, the will in the liberation of its union with that which is above."
@@ -859,8 +851,7 @@ denotes the consultant, personally. In every figuration of cards it is further t
 As far as we may ascribe siderial meanings to the cards of the Greater Arcana, the Magician should rule the month of Aries, i.e. from the 21 March to 20 April. It appears gravely doubtful, however, if this may be considered to determinate incidental occurrences in time. It will certainly relate to properties of the sign Aries in general and in particular and consequently owned by people born between those dates. But for the rest definition of time, date or hour must be sought in the cards of the Lesser Arcana, as far as we know.
 
 
-
-
+Next: II. The High Priestess. Taurus
 II. The High Priestess. Taurus.
 The second stage in macrocosmic evolution is the polarity of the omnipotent might of Self, omnipotent possibility of the field of manifestation, universal passive richness, the Kamaduk or Most Beloved Wish-Cow of the Hindus. This macrocosmic field is the Temple of the Great Magician or Architect, in potency at least. It is the Bull, Taurus, of astrology, the house of sound, art, faith and richness. To speak truly, it is not so much sound as the principle of the soundbox, sound itself having its origin in the next step. Therefore Papus may well compare this card with the hieroglyphic meaning of the Hebrew letter Beth, which relates to "the mouth of man as the organ of speech." But it is not "God the Son" as he says elsewhere. It might be called 'God the Woman,' the Divine Mother, the 'Eternal Feminine.' As the passive richness of the Universe awaiting him that will be able to see it and appreciate
 
@@ -871,8 +862,7 @@ W. calls her "Second Marriage of the Prince" and says, that in divination she st
 The High Priestess symbolises constancy, fidelity, repose, stability, but also dumbness, laziness, resistance, endurance as well as passive opposition. It rules everything in connection with art and the artistic abilities, with wealth and with the masonic lodge.
 
 
-
-
+Next: III. The Empress. Gemini
 III. The Empress. Gemini.
 If the Hebrew letter Gimel means the throat (as a canal for sound) and also "the hand of man half closed in the act of prehension" (P.), then it may indeed well stand for the house of Gemini as for no one else; because Gemini is the macrocosmic 'relation between the two' which is potential vibration, symbolised by 'sound,' and this sign rules the hands of man, with which he grips this relation actually. It rules the 'Word, which was with God in the beginning' and words, speech and correspondence in this world below, as above. It means cognisance, from which science may spring later, but it is not science itself. Nor is it 'action' (M.), though it is the origin of, sometimes the pretext for, activity. But it includes indecision, uncertainty, doubt, change, intercourse, reflection, appearance and everything that the sign Gemini may further communicate.
 This Empress is indeed "a daughter of Heaven and Earth" (W.), for she represents the sphere of Mercury, Messenger of the Gods, and so this card always bears the meaning of messages and writing, and of news to be heard, instructions to be received.
@@ -883,8 +873,7 @@ Why this idea of the messenger is drawn as a woman, and given the name of the 'E
 Also of 'universal fecundity' as W. has it.
 
 
-
-
+Next: IV. The Emperor. Cancer
 IV. The Emperor. Cancer.
 There is much more mystery buried in every symbol than words spoken can tell. Superficial consideration might make astrologers wonder at this
 
@@ -896,8 +885,7 @@ Still in a personal way the Emperor indicates the father of the querent, because
 Some authors say this card means 'realisation.' That is correct so far as this word means an inner realising of the significance of outer facts: the gathering of the harvest of experience, which will become the store of memory.
 
 
-
-
+Next: V. The Hierophant. Leo
 V. The Hierophant. Leo.
 The fifth step on the cosmic ladder is that of the Atma, the Spark in macrocosmos and that of childbirth and of the heart in particular on the physical plane. The latter is sanctified by the former and this fact is symbolised in the image of the Hierophant.
 
@@ -913,8 +901,7 @@ In another way, in practical divination, the card means of course 'sanction,' be
 Self-centredness and some sort of natural authority are the chief characteristics of Leo and the Hierophant.
 
 
-
-
+Next: VI. The Lovers. Virgo
 VI. The Lovers. Virgo.
 From the original meaning of the sign Virgo, the virgin matter of the cosmos or world-ether, to that principle which makes 'lovers' is rather a long step,
 
@@ -923,8 +910,7 @@ but we will observe that all these Tarot symbols relate to human points of view 
 an organic centre in its double possibility of experience is only the phenomenal expression of the same in organic existence in general, consequently stamping the whole of manifestation with the law of duality of 'good' and 'evil.' The latter is well illustrated by the picture on the older cards where a youth is represented standing between two women, the one appearing to be benefic, the other malific. This sensuousness indeed can lead to a lower sensuality or can be the means of demonstrating love. A sort of angelic figure (Cupid?) is seen shooting an arrow: symbol of the ray of light. The card which was drawn on the authority of Mr. W. shows a man and a woman in a state of paradisical nudity, and over the two hovers the figure of an angel. It confers much the same meaning, of course. "This is in all simplicity the card of human love, here exhibited as part of the way, the truth and the life." (W.) And we shall find, that the same force which makes us love, physically, is at the back of all the work we do. Because it is the material response to the fiery and central pushing power and includes actual possibility on the basis of practical knowledge, experimental knowing. W. did well to show the Tree of Knowledge in the drawing, it being the symbol of Nature in general and of the seed or seminal elements.
 
 
-
-
+Next: VII. The Chariot. Libra
 VII. The Chariot. Libra.
 In the Seventh house of the evolutionary cycle the relation of the Self with the Not-self or outer world is contracted and completed and the 'organism' arises as the systematic whole of organs, a lawful microcosm, which in every instance is a phenomenon of the Cosmic Law, first significance of Libra. This
 
@@ -937,8 +923,7 @@ On the front "we see the Indian lingam," says P. we should like to add: in conne
 gives the inspirational lead and motive to man in this world is being openly recognised by psychologists in our time.
 
 
-
-
+Next: VIII. Justice. Scorpio
 VIII. Justice. Scorpio.
 Whosoever might hesitate before the emblems of this card and think it might as well stand in relation with Libra on account of the idea of 'justice,' generally ascribed to the latter sign, and the balance which the woman holds in her left hand, will do well to consider the systematic relationship existing between all signs of the zodiac or evolutionary cycle. The left hand derives from, while the right hand is instrumental in giving out. Scorpio derives from Libra the balance and the idea of justice, but the sword in the right hand shows, that we have not justice pure and simple, platonic so to speak, but that which has often been called 'avenging justice.' Au fond it is more vengeance than justice and Scorpio is famous for its tendency to vengeance, in every way and every form. After Libra, the stage of total manifestation, this stage is the taking-back, the first step on the way home, which explains the well-known feature of desire, thirst for experience in this sign, because it wishes to bring home something from the voyage 'westward.' So the card of justice means above all the faculty of desire, higher as well as lower, from the most spiritual or religious longing down to the most crude lust. Sexual experience is one of the most important expressions of it, and we may safely say, that one of the principal significances of the card is sex. Another, principally where sex is sublimated, is occult experience, and the psychical side of earth-life in general. Naturally it stands in
 
@@ -950,8 +935,7 @@ It is the card of sorrow as well as of deeper satisfaction. In the man under thi
 it has to do with the proceedings of justitia in the world. It is also the card of the secret, or hidden. Most authors are not very famous for their interpretation of this card, but P. says a very good thing about it: "The sword here is a sign of protection for the good, as well as a menace for the bad."
 
 
-
-
+Next: IX. The Hermit. Sagittarius
 IX. The Hermit. Sagittarius.
 P.: "Humanity fulfilling the function of God the Holy Spirit. The human creative force." Indeed this is clearly Sagittarius for every astrologer. The author might have mentioned in the same line that the Hierophant (Leo) represents God the Son.
 The Hebrew letter "Thet represents a roof and suggests the idea of safety and protection . . . protection ensured by wisdom." The astrologer says: the Ninth house is the house of the Master--idea of wisdom and protection in one; the Master in fact shields his disciples like a roof . . . in some way.
@@ -962,8 +946,7 @@ In the older cards the Hermit is shielding his light on one side with his mantle
 W. is perfectly right in saying, that "Prudence is the least of its meanings and the most negligible." Some authors (M.) held this card to be the symbol of 'prudence,' but indeed the Sagittarian is not very famous for this virtue, though the card is truly Sagittarian and nothing else. This is again proved by the striking explanation of W.: "His beacon intimates that 'where I am, you also may be.'" This is the stereotyped way in which a Sagittarian thinks.
 
 
-
-
+Next: X. The Wheel of Fortune. Capricorn
 X. The Wheel of Fortune. Capricorn.
 "It symbolises Fortune, good or bad." (M.) So this means happenings, facts. It is indeed in the Tenth house, that the relation between the Self and the Not-self crystallises into fact, happening, deed. Says P., identifying this card with the significance of the Hebrew letter Yod, that it indicates "the finger of man; the forefinger extended as a sign of command." This clearly has to do with the significance of the Tenth house as that of authority and authorities, who are qualified to give commandments. The commandment itself comes under the same resort. "This letter has therefore become the image of potential (?) manifestation, of spiritual duration and, lastly, of the eternity of time." In
 
@@ -977,8 +960,7 @@ of fortune' in the horoscope, because this has a more specific meaning and only 
 It is the point where you get at the world or the world gets at you. It is 'ripe karma' above all, facts which are not to be overborne by words. The fruits of former thoughts.
 
 
-
-
+Next: XI. Strength. Aquarius
 XI. Strength. Aquarius.
 The astrologer says, that the Eleventh house is the house of the 'friends.' This means, that it contains those who are with us, and that which we have within the limit of our power, because 'friendly,' is that which is understood. The forces of nature, which we have mastered, are friendly to us and this is very well expressed by the woman who "is closing the jaws of a lion." The latter stands for passion more particularly. She derives this force from the eternal or superhuman and this is indicated by the lemnescate above her head. In older editions of the card 4 we find half the symbol for Aquarius, as a line of vibration added to it: 
 . Viewed from a purely astrological standpoint it is evident, that the force to conquer Leo should be found in the opposite sign, Aquarius. Early Renaissance must have seen this in the same way, as we find exactly the same image--only with one difference: it is there a young man, not a woman--a man closing the jaws of a lion in the capital of a pillar in the church of St. Andrew-the-Less in Vienna. Which proves at the same time, that the chosen image is not of a very recent date. (Musée du Trocadéro: Paris.)
@@ -988,8 +970,7 @@ man in the act of grasping strongly. Ideas of strength are therefore applied to 
 "It is connected with the mystery of union . . . in all planes . . ." (W.), and this also is evident, because we are united with that which we have mastered and with people who are able to respond to our (electric) emanations of thought, or to whose emanations we ourselves respond.
 
 
-
-
+Next: XII. The Hanged Man. Pisces
 XII. The Hanged Man. Pisces.
 This twelfth sign of house, closing the cycle of the zodiac, means loss to the outer world, solution, handing over the results of one cycle to the following one, whence comes the meaning of treachery in common astrology. This house contains the things which we have not yet mastered and those whom we have failed to understand or who have failed to understand us. So either this remains for the next cycle, or it will tempt us to waste our last forces. In the eyes of the world it is the sign of waste, spoil, mishap. Viewed from the other side it is the sign of the Golem, in which the outer world loses its importance or even reality, and the consciousness is opened to inner truth. This is the reversing of consciousness, which makes things change their significance in such a way that they appear to turn upside down: the world is now viewed from the other side. And this is the significance of the hanged man.'
 It is also the sign of Judas, who, as far as the outer world is able to judge, did not understand the significance
@@ -1017,8 +998,7 @@ bearing the same significance and to have been used in this same mutual relation
 Footnotes
 68:* Musée du Louvre, Paris.
 
-
-
+Next: XIII. Death. Saturn
 XIII. Death. Saturn.
 The picture speaks for itself--as indeed most of them do--but still there is more in it than we might suppose at first sight. Beyond all doubt it is a sort of allegorical representation of Father Chronos, Time, who, while creating, consumes his own children, and was very often pictured as a warning of death or a remembrance of mortality. But on the other hand Time marks the beginning, and birth is not less under his government than death. The ancient edition of this card shows the figure harvesting heads and limbs of human bodies upon a field. This may be an expression of an old superstition, which said that those limbs with which man sinned would grow out of his grave. Probably a distorted teaching of the Law of Karma or cosmic reaction, which is also ruled by Saturn, at least in the execution. And in this function he is the old God of Israel, whose law was "an eye for an eye and a tooth for a tooth."
 But Saturn is more. He is the planet or cosmic function (let us say planet for convenience sake) of Formation, which means also determination in Place and Time, limitation, definition, etc.
@@ -1030,8 +1010,7 @@ That Saturn, the Christian Satan, has close relations with woman and even that h
 Death certainly is only relative and the death of the form may mean the commencement of life on another plane. Birth down here may be seen as a sort of death of a higher existence. "The veil and mask of life is perpetuated in change, transformation and passage from lower to higher . . ." (W.) Higher to lower as well. W. shows the figure on horseback, which is not inadequate for the ruler of Capricorn, which succeeds to Sagittarius: action and definition in space and time are born from thought. ". . . perpetual rebirth of the Being in the domain of Time." (P.)
 
 
-
-
+Next: XIV. Temperance. Mercury
 XIV. Temperance. Mercury.
 ". . . the Genius of the Sun holding two cups and pouring from the one into the other the liquor which holds life." (P.)--" A winged angel with the sign of the sun upon his forehead . . . pouring the essences of life from chalice to chalice." (W.) Another version has: ". . . pours the fluid of Life from a
 
@@ -1042,8 +1021,7 @@ P. seeks to establish relation between it and the Hebrew letter Nun, which means
  Yes: reflection and above all reproduction. The name 'Temperance' appears to have been chosen because of the transposition from one plane to another, or one centre to another, which has much to do with 'time' also. The latter is the proper reason for naming this principle directly after that of Saturn.
 
 
-
-
+Next: XV. The Devil. Mars
 XV. The Devil. Mars.
 The goat-like figure recalls the sign Capricorn in which astrology teaches that the planet Mars has its exaltation, the name 'devil' means the evil, as is well known, and this alliteration holds good not only in English. It is the symbol of that which to exoteric human understanding is as much of a malefic nature as Venus is benefic. The counterpart of Venus: Mars, planet of pain and struggle, passion and sex-nature, but also of the energy necessary for the process of formation and generation in Nature. Allusion to sex-problems is found in the two human figures, man and woman, chained to the pedestal on which the diabolic figure is seated. That sex-nature binds man, is a natural fact of a more or less occult order.
 So it has to do with generation in Nature in every sense and kingdom, though astrology teaches that Mars has a special connection with the animal kingdom and animal passion--passion which drives to the preservation of the body as well as of the race; fighting for existence in both senses of the term. So Mars always figured as the War-lord. Not only sexual energy, but every energy in Nature chains the result to the cause and object to subject. It is unnecessary to work this out any further. We shall
@@ -1053,8 +1031,7 @@ The torch in the hand of the figure denotes, of course, the fire of passion and 
 P. in regard to this card points to the Hebrew letter "Samech which expresses the same hieroglyphic sign as the Zain (7th arcanum) . . . etc., a weapon of any kind . . ." We can see, that this generative force has much to do with the house of marriage.
 
 
-
-
+Next: XVI. The Tower. Uranus
 XVI. The Tower. Uranus.
 "Occult explanations attached to this card are meagre and mostly disconcerting." (W.) The reason for this is easily seen: the principles of Uranus and Neptune were not much known in antiquity save that they were the general principles of the Heavens (the Air or also the atmosphere) and the Ocean, and as such we find them in the Pantheon and in the original Tarot, not yet as the much later discovered planets, which personify these general cosmic principles. Later ages added very little, if anything at all, to those original explanations. Still Ouranos and Poseidon were known in Greece as well as Dourga and Varouna in India.
 And the stone tower struck by a flash of lightning is another version of the legend of Ouranos mutilating his son Chronos, which means, that Heaven is not content with a body of fixed dimensions and form, nor any heavenly force with the limitations put to it
@@ -1064,8 +1041,7 @@ The Hebrew letter Ayin is addicted to this card. P. utterly fails in giving any 
 So the card of the Tower signifies the relation between macro- and micro-cosm and will mean rupture, sudden disillusion, disenchantment, but also it symbolises intuition, renewal, help from above and clear insight in relation to vanity and sham projects, illusion and meaningless formalism.
 
 
-
-
+Next: XVII. The Star. Venus
 XVII. The Star. Venus.
 "The figure expresses eternal youth and beauty." No astrologer will hesitate to recognise Venus. "The Star is the étoile flamboyante, which appears in Masonic symbolism, but has been confused herein." (W.) And "gifts of the spirit," which au fond means
 
@@ -1077,8 +1053,7 @@ it is Venus, the ruler of the signs Taurus and Libra, houses of riches, art, bea
 In divination it means of course benefit, well-doing, organisation, co-operation, love, beauty, peace, concord, etc. The reverse of the card of Mars. As the contrary of energy it may mean laziness, indolence, rest, weakness.
 
 
-
-
+Next: XVIII. The Moon
 XVIII. The Moon.
 Everything that has been said in astrology about the Moon might be repeated here, as there exists no controversy whatever on the point of identity. "The card represents life of the imagination apart from life of the spirit." (W.)
 This card consequently means the life of the soul in particular, the feelings and sentiments, emotions (not only fear, etc.), changes wrought in existence by them, water and the female element in general. In the horoscopic figure it may be the mother or some other woman prominent in the life of the querent; it may signify women in general (and morally or psychically, while Saturn means physical woman). It is the sign of panta rei: everything passing, flowing or ebbing away in life, consequently uncertainty. It may relate to dreams, to exhibitions, popular plays, and games, theatres, and to the lower class of people. Physically it means the brain and the stomach.
@@ -1088,8 +1063,7 @@ house, as pointed out by us before. It should mean a term, an aim, an end." (P.)
 P. has only one good thing on it, and after all this is only on a particular and not very high level: "Servile spirits (the dog), savage souls (the wolf), and crawling creatures (the crayfish) are all present watching the fall of the soul, hoping to aid in its destruction." That is true. And it may happen to us, that a lower current of the Moon brings our way people who have no higher aim than to 'aid in our destruction' even if we ourselves have no intention whatever of 'falling'.
 
 
-
-
+Next: XIX. The Sun
 XIX. The Sun.
 "The walls indicate, that we are still in the visible, or material world." (P.) This relates to the picture which shows a child on horseback--or two children as in the older editions of the card--playing beneath the bright Sun and evidently within a walled enclosure. So far so good: we are and we remain in this world. And for the rest the Sun is the Sun and this card means everything that astrology can tell about the Sun, in every respect and on all planes. It means the positive or masculine elements in general, the power and function of will and concentration, great benefit and mighty protection in spiritual as well as in mundane life and matters. It may signify the father of the querent and high authorities, king, president, ruler, etc. The spiritual centre of man and the centre of importance in everything is indicated by it. Physically it indicates the heart and the solar-plexus.
 The protecting power of the Sun is well illustrated
@@ -1098,8 +1072,7 @@ by "the hieroglyphic value of the Hebrew letter Quoph, which expresses a sharp w
 In a figure laid for divination this card indicates the centre of interest and that which is fixed, certain, assured and under protection.
 
 
-
-
+Next: XX. The Last Judgment. Jupiter
 XX. The Last Judgment. Jupiter.
 If Saturn denotes 'death' and the grave, what more natural than that his counterpart Jupiter should stand for the resurrection from the grave? While Saturn, Lord of the mineral kingdom, is held to 'kill' by his crystallising effect, Jupiter, Lord of the vegetable kingdom and of all that grows and expands and evolves, leading up to sublimation and elevation, abstraction, etc., afterwards, is first the emblem and function of organic life, later on also those of psychic and spiritual life above the material existence, barren and naked, from which it consequently brings deliverance. The latter meaning is chiefly viewed when symbolising this principle in the card of the Last Judgment. "An angel sounds his trumpet per sepulchra regionum and the dead arise." (W.) Some people say "that it signifies renewal, which is obvious enough . . ." and "that it is the generative force of the earth and eternal life." (W.) The latter fairly covers our definition of Jupiter's function. Again W. further mentions, that it "is the card which registers the accomplishment of the great work of transformation." Which is also in the line of Jupiter, Io Pater, 'Our Father that is in the Heavens.' And every great work needs his co-operation; there is no important or great work
 
@@ -1107,8 +1080,7 @@ done in this world without Jupiter, the planet of ideals playing a prominent rô
 The card is identified with the Hebrew letter Resh, which "is the head of man, and it is therefore associated with the idea of all that possesses in itself an original, determined movement. It is the absolute sign of motion, good or bad, and expresses the renewal of things with regard to their innate power of motion."--"Return to the divine world."--"Vegetable life." (P.) Yes. We might say: thought-power and the idea of motion which it implies and imparts. Jupiter was the first and chief of the Gods, Theoi, Movers.
 
 
-
-
+Next: XXI. The World. Neptune
 XXI. The World. Neptune.
 As in the case of Uranus we want to point out that originally the planet cannot have been appointed, astronomically, but the principle of cosmic magetism, of which it is the organ, and the universal magnetised, field, the field of the world in which we live, must have been well known to the initiates, who worshipped Poseidon and Varuna, gods of the world-ocean. The symbols of the four fixed signs are presented at the corners of the cards, and where
 
@@ -1120,8 +1092,7 @@ The Hebrew letter Tau is related to this card and "has the same hieroglyphic mea
 Very striking is P.'s saying that "This symbol represents macrocosm and microcosm . . ." and even more so that "the empire of the world belongs to the empire of Light, and the empire of Light is the throne of God . . ." Scientifically expressed: the ethereal world, being the bearer of light, is the universal womb of the material or physical world. The nude female figure may certainly contain indications with regard to the life of the senses, but is also a symbol of the angelic state to which man will one day come after being delivered from the bonds of the lower world. It may have to do with nature spirits. It is Aphrodite rising from the sea, daughter of Neptune. Beauty and love and happiness arising from the communion of souls.
 
 
-
-
+Next: 0. (Zero) The Fool. Our Earth
 0. (Zero) The Fool. Our Earth.
 The average stage of man in the present stage of Earth-evolution is 'human,' but not yet at the stage
 
@@ -1145,8 +1116,7 @@ But the striking fact is, that these traditional significations cover almost exa
 
 
 
-
-
+Next: The Lesser Arcana
 THE LESSER ARCANA
 The theory formulated in the first part of the present work must be proved by practice; and here we are in the same lucky position as with horoscopy, where we find also the most abstract world-vision
 
@@ -1163,8 +1133,7 @@ We might add one more remark, viz. regarding the nature of the Page and the Knig
 
 
 
-
-
+Next: Ace of Wands
 WANDS Ace
 TRADITION: Birth, source, principle, beginning, origin, cause, reason, creation, invention. Some say also: family, but this is probably to be taken as 'family-descent,' or parentage or origin of the family, which is a different idea. Reversed: Fall, perdition, decadence, decline, ruin, etc.
 THEORY: The element of Air on the First house or ascendant has of course to do with birth and beginning, because it is the coming through of the message from above to the regions of the physical plane; the ascendant indeed is the synthesised appearance of the heavens at the beginning of . . . whatever it may be, and so this card signifies on one hand the inflow of light from above into the world of matter and fact, which can have several meanings. On the other hand, seen from the side of light itself, it is the 'fall in matter' and the decline of the higher, as well as the enlightening of the lower. The cards of the airy element have always and in every instance a double meaning and not only in the sense of right and reversed, but a meaning on two sides. And apparently this has been wrongly introduced as 'right' or 'reversed' in some cases. So the ace of wands will represent the effect of suddenness, of the incidental, even accidental, showing some appearances of the planet Uranus. It denotes
@@ -1173,8 +1142,7 @@ something that is making its appearance all of a sudden; a sort of manifestation
 CONCLUSION: Birth, beginning, innovation, creation initiative, impulse, origin, principle, source, cause reason, parentage, handing over of a message, news revelation, initiation. On the other hand come the meanings derived from fall, decline, descent, depreciation, profanation, etc. But it means that which will happen once only and which cannot be taken back.
 
 
-
-
+Next: Two of Wands
 Two of Wands
 TRADITION: Melancholy, sadness, surprise, astonishment, consternation, terror, fear, enchantment, trouble, but also on the other hand riches, fortune and magnificence.
 THEORY: Air on the Second house, that of Taurus, which explains at once the latter significances ascribed to the card by some authors; the other category of definitions derives from the earthy nature of the Second house, which, put into the tone of the airy element, may cause something of the oppression, which the heaviness of this fixed and earthy house exercises on the mind. It is the impression of heaviness, of a load on the back, which easily may attain the more concise form of a fear, a gloom, a feeling of being downcast, impotent, weak and not able to resist circumstances. So it may signify the
@@ -1183,8 +1151,7 @@ pressure of material conditions, the responsibility imparted by riches, but also
 CONCLUSION: Music, art, artistic ability in general; capital, riches, heavy responsibility, pressure, obsession, melancholy, fear, weakness, impossibility or material power (on one side and on the other), gloom, dullness, 'spleen,' impotence, subjection to material circumstances; attitude of 'wait and see'; the future is for those that can (afford to) wait. Country life.
 
 
-
-
+Next: Three of Wands
 Three of Wands
 TRADITION: Enterprise, effort, essay, trade, commerce, discovery, usurpation, daring, temerity and also imprudence, interruption, cessation and 'the end of troubles,' discontinuative.
 THEORY: The rather contradictory descriptions of this card's significance are well explained by its zodiacal position: Air on the Third house, which doubles the influence of 'air' and of the mercurial vibrations and effects. This card has the accent of the suit of wands. It must consequently denote: communication, reflection and all that comes from these. This needs little explanation.
@@ -1193,8 +1160,7 @@ CONCLUSION: Communication, instruction, reflexion, message, writing, postage and
 airiness, passing impressions, discontinuance, interruption, change, perhaps a certain amount of geniality, imprudence also; neglect or want of proper attention; as to 'temerity' I should say only in so far as this means an easy manner of overcoming obstacles, quick insight; effort, essay, trade are correct. Mercury being the God of merchants, and thieves, this card may relate to commerce, theft and loss. "The end of troubles" is indeed well said, because this card gives the key for their solution and shows the way of escape.
 
 
-
-
+Next: Four of Wands
 Four of Wands
 TRADITION: Society, association, alliance, multitude and all that implies a gathering of men, even armies; mixture; country life, felicity, augmentation, prosperity, happiness, peace and concord, etc., convocation; advance.
 THEORY: It is Air on the Fourth house and the mixing of mercurial and lunar influence will of course explain the idea of gathering. We cannot quite see some of the definitions (contract, pact, treaty), but generally we find the idea of that which binds together by memory and common motives, thoughts, mottos common to a certain group of people, be it family or nation, clan or army. So this leads us to see in the card the expression of the common motive, of that which binds people together. It is not the contract, but the motive which afterwards leads to contracts, or from which the contract will result. A common mistake, in astrological descriptions as well, is this mixing up of definitions relating to the cause and to the effect respectively. Mercury
@@ -1203,8 +1169,7 @@ brooding over the house of the family and the moon, engenders homely feelings, m
 CONCLUSION: Family-spirit, clan, home, the ideas and motives which rule us, consequently that which is familiar to us; memory, reminiscences, brooding and scheming, fantasy, theatrical arts, fancy, imagination. It can be augmentation as well as decrease, it generally means change and unstable conditions, popularity and vaccillation, profanation. It may denote some group of people, a gathering or meeting, family-council. A convocation. a call and a vote. Cosiness.
 
 
-
-
+Next: Five of Wands
 Five of Wands
 TRADITION: Gold, riches, opulence, magnificence, brilliancy, luxury, the struggle for riches, "physical, philosophical and moral sun." (P.) But also process, trickery, contradiction, discussion, chicane, etc.
 THEORY: Air on the Fifth house: that of the sun. The house of the heart and of children, of speculation and love affairs, of pride and of will-power. There is more of the richness of the heart in it than of material abundance, though generally Leo-people know how to reach the latter. It is a house of Fire, and the combination of Fire and Air makes warm air,
@@ -1213,24 +1178,21 @@ which may be used to heat rooms, in the same way as words, that contain warm fee
 CONCLUSION: Egotism, positive speech, contention, persuasion, suggestion, hot speech, demonstration (e.g. of love or desire); pushing power; all this may lead to trickery, to competition perhaps, and to struggle for riches certainly; it means speaking and thinking to such a self-centred way, that no notice is taken of other people's standpoint; consequently clashing of opinions; sometimes it may allude to gold and presents, but to the promise rather than to the fact. There is little or no evil in this card. At most it may denote stupid and childish persistence in one's own personal opinion, e.g. wishes. It has something sunny in it and is good for health and wealth in a general way, promoting both, but it is not 'riches' in itself.
 
 
-
-
+Next: Six of Wands
 Six of Wands
 TRADITION: Servant, inferior, mercenary man, commissioner; interior of a house, the household; it is also said to denote great news and expectation, hope and trust, but sometimes not without some misgivings or a slight apprehension of treachery.
 THEORY: It is Air on the house of Virgo, the Sixth, house of the servants and work, of exact science and the academy, of health and food, of the art of decoration and the interior of the house, as well as of the retail dealer. The element of thought (Air) on the earthy house of Virgo must naturally bring forth knowledge of every detail and reveal mistakes or shortcomings; it promotes efficiency, and the latter is one of the principal meanings of the card. Here again is a double mercurial expression, so this card must denote special abilities, capacities, technical insight; moreover food questions and medicine, medicaments and nursing; practical arrangement of details, but as Virgo "kills the prophets," this card may contain some or other discrepancy in the philosophical or logical, theoretical or strictly just side of things.
 CONCLUSION: Knowledge, exact and academical, decorative art, efficiency, work, servitude and servants, practical solution of problems, but at the same time perhaps some discrepancy; food, medicine, treatment, experiment; it may relate to persons in every subordinate position and to retail tradesmen; the personal attitude under this card is rather passive and indeed that of expectation, attention, waiting for orders or for the result of experiments, for the answer on question or demand; solicitation.
 
 
-
-
+Next: Seven of Wands
 Seven of Wands
 TRADITION: Discussion, negotiation, conference, conversation, deliberation, dissertation; measure; correspondence, words and language; generally success, but there may be also some hesitation, uncertainty, irresolution, light-heartedness.
 THEORY: All this is very strikingly typifying the element Air on the Seventh house, that of the airy Libra, house of relationship, marriage, meeting of the Self and the Not-self, which rules contracts, books and manuscripts. Here only comes 'discussion' into play. In the Fifth house the individuality was alone, and for discussion you want two persons.
 CONCLUSION: Discussion, relation, negotiation, entertainment, discourse, lecture, reasonable explanation, contract, marriage proposed, society-rulership and orders given out to inferiors, arrangements, regularisation and measurement; measure, proportion, rules given for conduct. There is uncertainty or opportunism in so far as rules are given in relation to circumstances, which may change. The personal interests are brought in, in relation with those of others. Fair weather.
 
 
-
-
+Next: Eight of Wands
 Eight of Wands
 TRADITION: Examination, interior disputes, misunderstanding, regrets, interior agitation, scruples, doubt, repentance, etc. But on the other hand it is brought into connection with everything that has to do with country life, the fields, gardens, woods, etc. Also: pleasure, amusement, enjoyment,
 
@@ -1241,8 +1203,7 @@ CONCLUSION: Examination, interrogation, internal or inner conceptions, knowledge
 the same time the knowledge and the occasion to avoid both or to get the one and avoid the other. Life at or on the sea; sailors and fishermen. Searchers for the hidden side of things, students of occultism. Poetry, music and sculpture. Secret message; hidden meaning; sex questions. Private interview or rendez-vous. Bad weather.
 
 
-
-
+Next: Nine of Wands
 Nine of Wands
 TRADITION: Obstacle, delay, suspense, adversity, slowness, contrariety, calamity, misfortune, renvoy, trouble.
 "The card signifies strength in opposition. If attacked he will meet the onslaught boldly." (W.)
@@ -1253,8 +1214,7 @@ have to do with prophecy, fortune-telling, teaching, conducting, guiding and the
 CONCLUSION: Teaching, instruction, guidance, teachers, masters, guides. Planning, travelling, sport; journalism, editors and journalists, public lecturers, orators; prophecy and predicting. On the other hand there may be unruliness, waywardness and unpractical idealism. It is certain that, where this card appears, much controversy, contradiction, antagonism, mental strife, etc., will be aroused, sometimes more than would appear necessary. There is also in it extension of thought, spreading of news, rumours, preaching, excitement of the people and revolution.
 
 
-
-
+Next: Ten of Wands
 Ten of Wands
 TRADITION: Treachery, duplicity, perfidy, falsehood, disguise, imposture, conspiration, obstacle, surprise, dissimulation, contrarieties, difficulties, false-seeming, oppression. ". . . and if there is question of a lawsuit, there will be certain loss." (W.)
 THEORY: Air on the house of Capricorn: the Tenth. It is well known by astrologers, that the
@@ -1265,8 +1225,7 @@ CONCLUSION: Karma, obedience, executive ability, production and reproduction, ne
 unreliability, disguise, double-dealing, false appearance, lies and false diplomacy, etc. Oppression and overestimating the importance of things.
 
 
-
-
+Next: King of Wands
 King of Wands
 TRADITION: Country gentleman, man with good intentions and yet severe, honest and conscientious; may be a peasant or agriculturist. Eteilla calls him the father. Marriage, union.
 THEORY: Higher octave of the ace, lord of the suit of Air and the mind; coming on the First house. What may have led to the legend of calling him a country gentleman and bringing the whole suit of wands more or less in relation with the country, is not clear. He is the lord of the intellectual kingdom, consequently he may denote every authority or personality of primary importance in some or other intellectual, mercurial or mercenary line. It must be some one representing a high authority himself or uniting opposite interests, while he himself, on account of the same authority he represents, may not or cannot be contradicted.
@@ -1275,8 +1234,7 @@ Now we want to put in a remark here concerning the court or personal cards in ge
 CONCLUSION: A governor, director of business, high official, postmaster, solicitor, manager, independent trader, Secretary of State, and the principles or functions for which they stand. The house of Mars imparts austerity, security and generally initiative and honesty; in weak cases there may be, however, some doubt with regard to his absolute integrity. He may be the authority, who concludes a union, viz. notary, clergyman or civil authority. In the church he is the High Priest, in the lodge the Grand Master.
 
 
-
-
+Next: Queen of Wands
 Queen of Wands
 TRADITION: Country woman, honest, economical woman, honourable and loving, virtuous, chaste, good and inclined to be friendly and interest herself in the querent. The card may also indicate love of money, economy and gifts.
 THEORY: Queen of Air on the Second house of economy, money, country life and art. Some of the traditional renderings certify this remarkably well. Now what does a queen in general mean? In divination a woman simply, but in general, as the king is the head of the hierarchy or suit as the spiritual synthesis and masculine representative, so the queen may be said to be the material synthesis and the chief female representative. So the queen of wands must be, apart from all personality, the representative of banking, exchange, agriculture and of the arts in general, painting, music and dancing in particular. In W.'s picture of this card, a cat is seen before the feet of this queen: a remarkable indication of the house in which, as astrology teaches, the moon is exalted. It indicates rightly, that in weak cases there
@@ -1285,8 +1243,7 @@ may be some falsehood in the nature of persons indicated by it. Cajolery, but ap
 CONCLUSION: A woman of economical habits, wealthy or desiring wealth, steadily resolved to get at riches, certainly not 'cheap'; more or less artistic, may be a painter, dancer or musician; she is faithful, but may be subject to moods and changes of taste. Honesty may be certified, but not without a certain amount of egotism, e.g. materialism. She is very passive and cool, phlegmatic and not easily to be roused to passion, if ever. This of course makes the impression of 'chaste.' There is, however, a solid sort of sensuality. In strong cases there is real virtue. Banking, agriculture, art, capital, money. The latter more to be seen as 'money-matters' than as 'ready money,' and rather papers of value, shares, bonds, banknotes, than coined money.
 
 
-
-
+Next: Page of Wands
 Page of Wands
 TRADITION: Stranger, unknown man, young man in search of somebody, extraordinary or at least uncommon man; postman, envoy, dark young man, faithful lover. Further it denotes an announcement, instruction, advice, tale, lesson, advertisement, something wonderful, unexpected, admirable, unusual. A notion as well as a miracle. News.
 THEORY: We have to keep in mind, that the page of Air relates to the Third and to the Eleventh house both. Some of the indications show the mark of
@@ -1295,8 +1252,7 @@ aquarian, i.e. uranian parentage, others are purely mercurial. The pages always 
 CONCLUSION--(From the Third house): A brother, schoolmate, messenger, postman or envoy, functionary or official of subordinate position, generally a younger man, sometimes on an errand; messages, letters, communications, teaching, instruction, lesson, advertisement, advice, announcement. News. (From the eleventh house): A friend, some one in business relation with the querent, or with whom he agrees. Telegraph, telephone and wireless. Intuitive connection, telepathy, invention. Helpful influences in general, helpful people of all sorts, tradesmen, purveyors, etc.
 
 
-
-
+Next: Knight of Wands
 Knight of Wands
 TRADITION: Young man, friendly. Departure, absence, flight, emigration, change of residence, desertion, transmigration, transplantation, transmutation, separation, disunion, rupture, discontinuance, brouillerie, discord.
 THEORY: The workings of Air by a special and mighty agent--for this the knight is in all cases--on the houses of water, here the Fourth and the
@@ -1309,8 +1265,7 @@ changes in the home, house or family; memories awakened, divulgation of family s
 
 
 
-
-
+Next: Ace of Pentacles
 PENTACLES Ace
 TRADITION: Perfect contentment, felicity, happiness, ecstasy, perfect joy, perfect remedy, fulfilment of what has been asked in prayer. Reversed: Capital, riches, opulence, treasure. Something of principal value or valuable, dear, expensive, rare, highly esteemed.
 THEORY: The element of Fire, of the nature of the Sun and Venus, on the house of the Sun, the Fifth: indeed this card has been well defined by the traditional renderings, which give it all as very benefic. How could it be anything else? The aces are all more or less a commencement, new prospects, etc. If you get the ace of pentacles or hearts on one
@@ -1319,8 +1274,7 @@ of your houses in the horoscopic figure, you may be pretty sure that the matters
 CONCLUSION: Creative energy, fulfilment of hope, wish and desire, good luck, bright prospects, beginning of a new era in life, happiness, good augury; a child; a speculation. As to material effects it is benefic without being in itself the indication of riches or gold. It may be a present, a donation. Profit. Promise. Goodness. Favour. It may indicate the person, who is chiefly of interest, and of benefic influence.
 
 
-
-
+Next: Two of Pentacles
 Two of Pentacles
 TRADITION: Embarrassment, obstacles, obstruction, emotion, confusion, difficulty, hindrance, unrest, etc. Reversed it is given as message, writing, doctrine,
 
@@ -1331,16 +1285,14 @@ CONCLUSION: Good work, reasonable satisfaction, satisfactory results, agreeable 
 and good servants; good treatment of same; joy, gaiety, recreation, etc. Feeling of physical well-being. It must denote also machinery, technics, abilities in these.
 
 
-
-
+Next: Three of Pentacles
 Three of Pentacles
 TRADITION: Nobility, noblesse, good and generous action, aristocracy, fame, glory, splendour, etc. Consideration, generous action. The reversed meanings do not appear at all to respond to a card of pentacle-nature and, as in many other cases, simply seem to imply the absence of the better qualities: weakness, humility, vile and abject action, etc. Another version gives: "Métier, trade, skilled labour." (W.)
 THEORY: The Fire on the Seventh house, which rules the contact of the Self and the Not-self, the relations between both, the executive ability in man. So this must lead to the idea of well-doing and noble demeanour, owing to the Sun and Venus again. Compare horoscopes with the Sun and Venus in VII. Well-conducted relations denote civilisation, aristocracy, and the proper expression of one's relation to the world in his occupation, his métier, as W. has it; profession, marriage and employment. So this card has to do with 'workmanship,' which is well expressed by the drawing of the card in the set of W.
 CONCLUSION: Civilisation, aristocracy, good workmanship, skill, civil treatment and noblesse, agreeable relation, métier, employment, profession, marriage; good done to other people, bounty, profitable relations in business; restoration, reparation, beneficial arrangement. A marriage will do much good.
 
 
-
-
+Next: Four of Pentacles
 Four of Pentacles
 TRADITION: A present, gratification, gift, inheritance, legacy; liberality, generosity, offerings, etc. "The surety of possessions, cleaving to that which one has." (W.) Reversed it is said to represent: A circle, circuit, and in general that which limits, encircles, holds, walls, encloses.. So it may be a convent, monastery. Further obstacles, delay, suspense.
 THEORY: The Fire of the heart on the house of Scorpio, the Eighth, which is the house of secrets, of the money and possessions of other people, of death and sex, of inheritance and debt, loans and delay in all material matters, psychic activity, but much hampering in all physical activities--all this makes clear much of what tradition has handed down. Everything falling in this house is connected with some secret, which cannot be divulged to the outer world, and consequently in relation to this world these things cannot appear in their full light or significance, are more or less handicapped, meet with obstacles and are wrongly judged. It is related to monastic life indeed. On the other hand it is the psychic and sexual expression of the love born in the heart, and it means, on this account, certainly "cleaving to that which one has" in a very personal way. It is the card of desire, attachment, secret longing for possession, which, when not being satisfied, may lead to retreat and retirement. The fire of the heart is here suffering from dissatisfaction or impossibility of realisation. It is probably the least favourable card of the pentacles suit, at least in a material sense. It may hold much good for the
@@ -1349,8 +1301,7 @@ future, however. Material benefit in this case will never go without some loss o
 CONCLUSION: Desire, longing, etc., which will be probably satisfied in the future, delay, retreat, retirement, secret possession, legacy, inheritance, loan, mortgage, gift, the former not without some drawback, sadness or loss. Debt, probably going to be paid. Condition of being limited, enclosed, hampered or delayed. Some good which is not within the reach of the querent.
 
 
-
-
+Next: Five of Pentacles
 Five of Pentacles
 TRADITION: Lover, mistress, also husband and wife, friend, beloved person. Accord, convenience, well-being, affinity. Reversed they give: Bad conduct, ruin even, confusion, disorder, discord, dissipation, chaos, profligacy. Mr. W. says: "It foretells material trouble above all."
 THEORY: The latter saying of Mr. W. is probably correct in any case, but we do not agree that the different renderings "cannot be harmonised." The Fire of the heart on the Ninth house, that of Sagittarius, explains them all without difficulty. It is the emanation of love, which makes practically the lover and the mistress, e.g. husband and wife, when regularised by civil law, and friends, when between persons of the same sex, sympathy and popularity, enthusiasm, hopefulness, love of travelling, roaming about, which in weaker cases easily leads to Bohemian habits, carelessness, disorder and so on. Society will call this in many cases bad conduct, and find much to criticise. That the expansive nature indicated
@@ -1359,8 +1310,7 @@ by this card causes 'material troubles above all,' is evident, because it means 
 CONCLUSION: Emanation, expansion, love-making and the consequences: lover, mistress, husband, wife, friend; sympathy, popularity, enthusiasm, hopefulness, well-being, affinity. Expenses, material troubles, and in weak cases: disorder, vagrancy, roaming about without aim, waywardness, bad conduct, profligacy, confusion, etc. It is sure to indicate love outside the lines of a legal marriage. Strong individualism, which however is probably ruled by a strong will and a good heart. Brilliancy, but sometimes lack of the sense of responsibility. Travelling or emigration will do much good.
 
 
-
-
+Next: Six of Pentacles
 Six of Pentacles
 TRADITION: The present, the actual moment, to-day; a witness, contemporary, attention, good care, vigilance. Presents, gifts, gratifications, prosperity. Reversed it is said to denote: Cupidity, jealousy, desire, passion, lust and researches.
 THEORY: The Fire of the heart on the house of Capricorn, the Tenth, which is the house of the act, the deed, actuality, position and name, superiors and authorities. Moreover it denotes the actual time in the horoscope. The descriptions given by tradition are consequently correct and to the point. We may add, that here, in this combination, the heart's desire and wish, the impulses to speculate and to
@@ -1369,8 +1319,7 @@ create, to make love and to do good, all become active and acute. So this must b
 CONCLUSION: Good, useful, charitable action, duty well executed, even where not prescribed by written law or order; sense of moral duty; charity, well-doing; presents, gifts, prosperity, fruitfulness. Things being duly and well paid. Good selling. The seizing of opportunity. There is advantage in acting at once. The present moment, to-day. In weak cases there may be of course some sort of speculating on other people's charity or presents, consequently something like desire, cupidity, etc.
 
 
-
-
+Next: Seven of Pentacles
 Seven of Pentacles
 TRADITION: Money, riches, sums of money, also silver especially. Has to do with the moon and whiteness. Candour, innocence, purgation, purification. Business, barter. Reversed: Mental worries, suspicion, diligence, fear, mistrust, etc.
 THEORY: The Fire with its sunny and Venusian character on the Eleventh house, the house of friends, in which the Self has to rely for a good deal on them or to live for them, but in which it sometimes finds it hard to give up its own desires and wishes. Still in the main it contains 'friendly' surroundings and
@@ -1379,8 +1328,7 @@ is the house of traffic and business, of practical co-operation and interrelatio
 CONCLUSION: Friendship, concord, friendly relations and sympathetic, reliable and agreeable surroundings outside the family circle; profitable co-operation, advantage, good business, remuneration. Natural and rational outcome of what has been sown previously.
 
 
-
-
+Next: Eight of Pentacles
 Eight of Pentacles
 TRADITION: A dark girl, honest girl. Reversed: usury, voided ambitions, vanity, cupidity, avarice. W. says: "Work, employment, commission, craftsmanship, skill in craft and business." Another
 
@@ -1391,8 +1339,7 @@ cards of wands--ace to ten--stand for young people, from one to twenty years of 
 CONCLUSION: Devotion to what is not a prescribed duty, charity, skill, artistic ability, work done under inspiration, dexterity, uncommon qualities, perhaps geniality or even genius. Researches into the mysteries of Nature; nursing, work in hospitals or sanatoria, and these institutions themselves. In weak cases misleading appearances, making a useless show of activity. In very strong cases there is an artistic or genial ability, which will be only appreciated later. There will generally be sacrifice accompanying a work. Work for hospitals or prisons. Good card for a medical man or a clergyman. In weak cases there may be Bohemian love ending in degradation, depravation, waste of money, etc., though never by this card alone. On the contrary, it may indicate the conversion of a good-for-nothing to labour. Dark girl.
 
 
-
-
+Next: Nine of Pentacles
 Nine of Pentacles
 TRADITION: Effect, realisation, accomplishment; positive certain fulfilment of what is presaged by the neighbouring cards, succeeding. Reversed it is said to give: Deception, bad faith, vain hope, idle promise, etc.
 
@@ -1400,8 +1347,7 @@ THEORY: It is the Fire on the ascendant, First house, and consequently must be v
 CONCLUSION: Honesty, positive attitude, sport, self-centredness and confidence in one's self, self-reliance, certitude, accomplishment, directness, no attention paid to other people's standpoint. Means to the querent: go ahead, you will succeed. Prompt arrival of things. Strong affirmative answer on questions. The effect is certain.
 
 
-
-
+Next: Ten of Pentacles
 Ten of Pentacles
 TRADITION: The house and the household, economy, gain, riches, family matters, archives. Building --a castle as well as a hut--vessel, ship, race, posterity. Fortune, game. Reversed it is said to give: Fatality, destiny, opportunity, fate, gratification, dowry, pension. Also decision.
 THEORY: The element Fire on the house of Taurus, the Second, confirms again the remarkable correctness of tradition, without giving the astrological key to the significance. Naturally this card must have to do with economy, gain, riches, fortune, etc., while
@@ -1410,8 +1356,7 @@ THEORY: The element Fire on the house of Taurus, the Second, confirms again the 
 CONCLUSION: Fortune, riches, favourable chance in monetary matters, economy, agriculture, art, specially music and painting, may give a beautiful voice, advantage in worldly affairs, possessions, specially domains, land, property; banking, insurance, art-dealing. In weak cases the card may indicate laziness, idleness, dull luxury and the degenerating influence of an existence without trouble or exertion: it is like full midsummer in human life. There may be some fatality in it. You cannot escape this good ripe fruit of karma, nor the fullness of Nature at its height. The attitude of the wise must be: to enjoy.
 
 
-
-
+Next: King of Pentacles
 King of Pentacles
 TRADITION: Dark man, banker, trader, speculator, mathematician, master, professor. Success in mathematics and science in general. Reversed there are given: Vice, weakness, corruption, deformity, etc.
 THEORY: Very often the 'reversed' meanings are nothing else but the expression of the lack of the quality given as 'right.' But this scarcely seems worth taking into account, because all qualities, which are not indicated are wanting, and moreover there are cards which decidedly indicate vices, as will be shown.
@@ -1421,8 +1366,7 @@ agreement, consent, etc., and gives success in love-affairs and marriage.
 CONCLUSION: Noble, good and honest man; generally of influential position, central power, honourable intentions, whom you may trust, but whom you cannot counteract successfully; whom you must go out to meet and whom you must not expect to come and visit you. May be banker, speculator, gambler, commander, general or manager. Benefic influence, wealth, luxury, good cheer. In weak cases vanity, pride. Success in mechanics and machinery.
 
 
-
-
+Next: Queen of Pentacles
 Queen of Pentacles
 TRADITION: Dark woman, who suggests "the idea of greatness of soul; she has also the serious cast of intelligence." (W.) Opulence, riches, luxury, assurance (insurance?), security, liberty, frankness. Reversed: Doubt, indecision, uncertainty, timidity, apprehension, vacillation, etc.
 THEORY: The higher octave of the two, consequently covering the Sixth house and demonstrating the features of the noble Virgo-type. So this must be a woman always inclined to help and to serve, to make herself useful, a nurse perhaps, a household woman of good standing a good hostess. There are also qualities of science in this house, as it is the house of the Academy and Minerva. So she may be as an incarnation of Minerva herself, protecting science and craftsmanship as the Dame of Wands protects the arts. She must have many qualities and above all refinement, though she may suffer more or less from the evil--so far as it can be called--of doubt, and the difficulty of choosing between
@@ -1431,8 +1375,7 @@ many possibilities in her nature. She is generous and benefic. Her presence is a
 CONCLUSION: A good and intelligent woman, who will render service to the querent, benefic influence, help, assistance in word, advice and action. Woman of good standing and refined type, the personification of honesty, protection, knowledge, understanding, education, culture. Discretion may sometimes lapse into timidity through sensitiveness. Material benefit, earnings, wealth, rent, products. Security, assuredness, insurance, certificate or diploma. Patronage of science and technical and industrial works.
 
 
-
-
+Next: Page of Pentacles
 Page of Pentacles
 TRADITION: Dark young man, disciple, student, speculator, commercial man. Application, scholarship, study, reflexion, meditation, occupation, rule, management, news, message and the messenger himself. The reverse meanings are here for once even given as favourable for the greater part: Profession, luxury, sumptuousness, breadth, abundance, magnificence, liberality, generosity, well-doing. Also the crowd, multitude. Degradation, dissipation.
 THEORY: The Page, always more or less of a messenger, in this case of fiery nature, on the Seventh house, as well as on the Third. The latter
@@ -1441,8 +1384,7 @@ house is that of the disciple and the message; so here the traditional rendering
 CONCLUSION: Disciple, student, messenger, and the message, good and favourable news; a newsagent; honourable denomination, commission, news about a position or relation, contract or profession. Liberal conduct of people towards the querent. A director, directing manager, bookkeeper, assistant. Editor, bookseller. Honourable mention. Agreeable conditions in general. Application, study, reflexion, arrangement, occupation, well-doing, goodness. May denote a meeting, a committee or a board of directors.
 
 
-
-
+Next: Knight of Pentacles
 Knight of Pentacles
 TRADITION: Utility, advantage, serviceableness, profit, interest, gain, importance, necessity. Reversed it is said to give: Repose, tranquillity, apathy, inertia, idleness, discouragement; also recreation, etc.
 THEORY: The Fire on the Eighth and on the Fourth house, personified. The traditional renderings are not bad but far from complete. The eighth
@@ -1454,8 +1396,7 @@ relation to us than is known or announced publicly. In weak cases: indolence, se
 
 
 
-
-
+Next: Ace of Cups
 CUPS Ace.
 TRADITION: Table, first as the symbol of the bearer of food, alimentation, etc., then also as 'table of the law'; catalogue, tabulation; the Holy Table. Meal, feast, gala, and invitation for the same. Hotel, restaurant, etc. Picture, painting, image, description. Production, fertility, abundance. Stability, fixity, constancy, etc. Reversed: Mutation, change, transmutation, inconstancy, etc. Buying and selling. Metamorphosis, reversal, revolution, translation, interpretation. Another version says: "House of the true heart, joy, contentment . . ." (W.) Reversed: "House of the false heart . . ."
 THEORY: The Cups, representing the element of Water, Jovian and lunar by nature, start their cycle on the Ninth house, the house of Sagittarius, ruled by Jupiter, the lawgiver. The element Water has its two polar effects in the soul, so we need not look for particular 'weak cases' to demonstrate a more or less benefic and malific effect at the same time. The house of Sagittarius, however, does not bring much evil to the soul and is generally uplifting, inviting, pushing towards progress and development, journeying and hospitable reception of strangers. There is little or no stability or fixity in it, but on the contrary always a good deal of 'mutation'; also the magic power of the true transmutation. Further we find a tendency to teach,
@@ -1464,8 +1405,7 @@ to translate, guide, interpret. It may, too, lead to extravagance as regards dis
 CONCLUSION: Sanction, permission, inspiration, idealism, enthusiasm, blessing. May denote a leader, teacher, guide or any influence of this nature. Legislation, direction, instruction; hospitality and sympathetic reception. Driving, hunting, travelling; planning for the future. Invitation, convocation, appeal. Mutation and transmutation. Translation and interpretation.
 
 
-
-
+Next: Two of Cups
 Two of Cups
 TRADITION: Love, passion, inclination, sympathy, attraction, concord, friendship, the inter-relation of the sexes; Reversed: Lust, cupidity, jealousy, wish, desire, but the card may also give, says W., "that desire which is not in nature, but by which nature is sanctified."
 THEORY: The Water of the soul on the house of Capricorn, the Tenth house of the act, the deed, manifestation. The two souls find each other here in an act, which of course must be that of meeting in the body. Soul-union, ending in bodily attraction. So the traditional rendering appears once more to be fairly correct. It is the outcome of idealism, indicated by the ace, shared by two souls. It is anyhow not the sex-element as a curse, but as a blessing in practical life. The card may further denote any sort of friendly act and sympathetic encounter. We should say, as regards 'love,' it is to be rather defined as love-making, courting.
@@ -1473,8 +1413,7 @@ THEORY: The Water of the soul on the house of Capricorn, the Tenth house of the 
 CONCLUSION: Love-making, passion, friendship, attraction, concord, good action, hospitable meeting or reception, the interrelation of the sexes, desire. In the weaker aspect: lust, cupidity, 'cupboard' love.
 
 
-
-
+Next: Three of Cups
 Three of Cups
 TRADITION: Success, happy issue, lucky solution, victory, accomplishment, cure, healing, fulfilment. Matter in plenty, perfection, merriment. Reversed it is said to denote: Expedition of affairs, dispatches, achievements, end, conclusion, etc.
 THEORY: The Water on the house of friends, the Eleventh, must bring concord, etc. Friendship, but on this airy house more platonic than that of the foregoing card. It is the house of surroundings so far mastered by the Ego and on this account 'friendly.' So the soul-life in surroundings that have been mastered will enjoy desirable and 'good' conditions and feel 'happy.' There is no feeling whatever of being hampered or thwarted, or depressed. All goes well and the general sensation is cheerful. It is the sign of a good time, good luck and general satisfaction. As the eleventh house also rules the blood, it is very favourable for health and eventual recuperation. Moreover this house has to do with commerce and business, and the card favours them beyond a doubt, giving a good understanding of opportunity and of the character and wishes of those with whom we have to do, so that we can supply what they ask.
@@ -1483,8 +1422,7 @@ CONCLUSION: 'A good time,' favourable opportunities, commercial and intellectual
 good issue of everything; good health and eventual recuperation, healing. Being in good relations with people. Light-heartedness, joy, holidays.
 
 
-
-
+Next: Four of Cups
 Four of Cups
 TRADITION: Annoyance, aversion, disgust, affliction, discontent (with his environment), satiety; blended pleasure. Reversed: News, presage, new light on things, novelty, new acquaintances made, etc.
 THEORY: The Water of the soul on the Twelfth house, which rules many changes, and adverse influences and, in general, the surroundings so far as they are not yet mastered, and therefore inimical. Indeed this house brings much affliction in matters of the world; materially it is anything but successful and in this respect will certainly bring annoyances, but on the other hand new knowledge of Nature's wonders is revealed in this house. Discontent with environment, certainly, but at the same time it shows the querent throwing his future on the waters of new adventure, leaving home and family to wander forth towards new experiences, enlarging the horizon of his views. There may be some ailment of the soul, however, in this house and in very weak cases alienation even. Sentiments not reciprocated, nor understood. A feeling of being outside one's proper environment.
@@ -1494,8 +1432,7 @@ of the world, which may lead to seclusion; secluded feelings.
 CONCLUSION: Discontent with present conditions or environment; estrangement, unrest, aversion, troubles, disgust; discord, failing to understand people or to make oneself understood. New discoveries, researches in unknown countries or territories, meeting with strangers. Instability, changes, generally for the worse in a material sense, but having some distant aim. At war with current opinions. Better to keep silent than to talk, because one will certainly be misunderstood. There may be "imaginary vexations." (W.) Seclusion; alienation.
 
 
-
-
+Next: Five of Cups
 Five of Cups
 TRADITION: Inheritance, legacy, succession, gift, testament, transmission, tradition; all of them "not corresponding to expectations; with some it is a card of marriage, but not without bitterness or frustration." (W.) Reversed: Family, forefathers, ancestry. Liaison, alliance, affinity, acquaintance, consanguinity. Race. "It is a card of loss." (W.)
 THEORY: The Water coming on the First house, the ascendant, and water having to do with the family, we may conclude, that family matters will come naturally to the querent in this case, just as they were swept from him or evaded by him in the preceeding one. Still we cannot see, that the card should denote the members of the family in particular, as mentioned by P. and others. Now 'family-matters' may include inheritance as well as marriage, but so many other things may also be included that it is difficult to enumerate them, and none of them is
@@ -1504,8 +1441,7 @@ indicated particularly. So we do not think it wise to say anything more definite
 CONCLUSION: Family-matters, care to be taken of them, sorrow or pleasure, emotion, material difficulties; there may be some advantage and some loss at the same time. News is certain to arrive. Subject to influences from the surroundings and apt to react too quickly thereon.
 
 
-
-
+Next: Six of Cups
 Six of Cups
 TRADITION: The past, memories, looking back. Antiquity, ancient things, etc. Reversed: Afterwards, regeneration, resurrection, renovation, etc. Another version says: "Happiness, enjoyment, but coming rather from the past . . ." (W.) Sometimes "new relations, new knowledge, new environment. . . ."
 THEORY: The Water of the soul on the house of Taurus, the Second, house of exaltation of the Moon. The latter is no doubt responsible for the addictions concerning memory and the past. The rest of the traditional descriptions, however, are rather rudimentary. There is more to be said of this house: it is full of meaning, as we already have seen, in the line of art, economy, etc. It relates to the country, and in connection with the latter the card will indicate rustic pleasures, enjoyment of country life and restoration to health by residence on the land. Happiness
@@ -1514,8 +1450,7 @@ is surely a characteristic of this card, but we should say particularly in a sim
 CONCLUSION: Happiness, feeling of riches in oneself, joy, enjoyment, love of Nature and country life; the picturesque, painting, instinctive knowledge of art and antiquarian value; love of the lighter sorts of music and theatre; good health, good cheer, feasting. Receptivity for beauty. The only drawback may be the tendency to dissipation. Taurus, the everlasting, may indeed produce impressions of the past as well as of the future.
 
 
-
-
+Next: Seven of Cups
 Seven of Cups
 TRADITION: Thought, soul, spirit, intelligence, idea, memory, imagination, conception, meditation, contemplation, reflexion, deliberation, views, opinion. Reversed: Project, intention, desire, wish, resolution, premeditation. Another version has: "Fairy favours . . . things seen in the glass of contemplation; some attainment in these degrees but nothing permanent or substantial is suggested." (W.)
 
@@ -1523,8 +1458,7 @@ THEORY: If we eliminate 'soul . . . spirit . . . and desire,' words too far apar
 CONCLUSION: Thoughts, intelligence, ideas, imagination, plans, suggestions, fancy, fantasy; reflexions and opinions, deliberations and intentions. Much in this card will not come into physical reality. Short travels, sight-seeing, impressions, views. Changefulness, unstable conditions. Promise and surprise, but always much more promise than fulfilment. 'Fairy favours.' 
 
 
-
-
+Next: Eight of Cups
 Eight of Cups
 TRADITION: Fair girl, honest, practical girl, honour, modesty, timidity, fear, sweetness, mildness.
 
@@ -1535,8 +1469,7 @@ CONCLUSION: Leaving the house or home; changes in the family(-circle). Little ch
 and waywardness. Despondency, despairing of success. Mixed sensations, no strongly preponderant feeling, unless it be that of dissatisfaction. May be fair-haired girl.
 
 
-
-
+Next: Nine of Cups
 Nine of Cups
 TRADITION: Victory, success, advantage, gain, triumph, superiority, etc. "The heart's content." (W.) Reversed, the card seems even better: Sincerity, truth, loyalty, good faith, frankness, ingenuity, opening the heart, liberty, familiarity, etc. Concord, contentment, physical well-being.
 THEORY: Many of the addictions are very suggestive of the influence of the Water on the house of the heart, the Fifth; and we can only say, that they are fairly exact and to the point. The card must signify the realisation of hopes and wishes lying in one's own power or destiny, making one enjoy the fulness of life, and adopting the philosophy of Epicurus. There is no evil in it. It shows goodness and a jovial disposition, not only contentment and happiness in one's self, but also, owing to Leo-influence, the love of bestowing hospitality on other people and helping them.
@@ -1546,8 +1479,7 @@ P.S.--In the more profane branch of divination this card is called the 'nine-mon
 the former confirms our idea, that the cups have to do with months in time.
 
 
-
-
+Next: Ten of Cups
 Ten of Cups
 TRADITION: The town, native land, living place, residence; also citizen(ship). Reversed: Agitation, irritation, indignation, anger. Another version gives: "Husband and wife . . ." "Contentment, repose of the entire heart"; and "A person who is taking care of the querent's interests." (W.)
 THEORY: It is the Water on the Sixth house, where it meets with Virgo-influences. Now what about the town or city? Virgo is "the city which killed the prophets"--Jerusalem--and the addiction originally will have indicated the physical, sensual embodiment of the soul, in which the spirit is 'buried' or 'killed' as the mystic formula has it. This card may therefore be called, with truth, the indication of 'the city of God' which, by analogy, becomes the physical body, as well as one's residence or native land. It means the physical and sensatory possession or ownership. Consequently it has to do with the agreeable sensation of being 'at home' and 'at ease,' having possession of what is wanted. It must also mean being fully acquainted with one's work. Good health and wise living. This house rules servants, food, health.
@@ -1556,8 +1488,7 @@ CONCLUSION: Well-earned security, wise living, husbandry, being at ease, feeling
 body and soul. Organic life in the body and in the community, viz. practical social conditions. In weak cases the house of Virgo may cause irritability and agitation, etc.: a weak nervous system must avoid the full sway of emotions.
 
 
-
-
+Next: King of Cups
 King of Cups
 TRADITION: Fair and honest man; man of business, law or divinity; responsible, disposed to oblige the querent; probity, equity, art and science, and those who profess science, art and law. Reversed: Honest or dishonest man equally (?); thief, brigand, rogue. Vice, corruption, scandal.
 THEORY: This king is the chief of the kingdom of the soul, coming on the Ninth house, and consequently must indicate the teacher, prophet, man of law and divinity; the professor, inspirer and great traveller; sometimes a hunter, a wanderer, or a sailor, a yachtsman. Honesty and probity will be generally his characteristics, but some fantasy may be mixed with it and he may be less particular in details or accuracy. He may be exuberant or even excessive, and this may cause some excitement, but we see nothing of 'scandal, vice,' thievishness or anything of that kind in this card. There is a lively sentiment of justice in it and the person indicated by it will certainly be disposed to render justice to the querent, whether he be connected with the law or not. If the querent is himself a weak or vicious individual, the card may indicate the judge before whom he has to appear. At all events it may represent the idea of judgment of the querent's actions or business. Further there is less of 'science' in this
@@ -1567,8 +1498,7 @@ CONCLUSION: Honest man, philosophical or idealistic, doctor or professor, teache
 W. rightly observes under this head: "The implicit is that the sign of the Cup naturally refers to water, which appears in all court-cards" (i.e. of this suit.)
 
 
-
-
+Next: Queen of Cups
 Queen of Cups
 TRADITION: Fair woman, good honest and devoted; virtuous and one who will do service to the querent; another version says: "Loving intelligence, and hence the gift of vision; success, happiness, pleasure, also wisdom, virtue." (W.) Reversed: Vice, corruption, scandal, etc. A rich marriage.
 THEORY: The personification of the soul on the house of Capricorn, the Tenth, manifesting into the world that which it carries. As such this queen is to us the image of the married woman and the mother and of all that which woman can give to man and mankind, by her virtue both of soul and body. So the card must also mean the realisation of hopes and wishes, consequently success, etc. The 'wisdom'
@@ -1577,8 +1507,7 @@ is here more of the practical blend, usefulness, knowing how to act with care an
 CONCLUSION: A good, intelligent, active and practical woman (may be fair), whom the querent will do well to obey and who deserves his full esteem. Type of the married woman and mother. Careful and attentive, of much use to the querent. Loving intelligence; and practical wisdom. Success, pleasure, happiness, virtue. Natural growth, promotion in the world, position and name, fame or renown.
 
 
-
-
+Next: Page of Cups
 Page of Cups
 TRADITION: Fair young man, studious. Work, application, reflexion, occupation, observation. Profession, employment. News, message; has to
 
@@ -1589,8 +1518,7 @@ CONCLUSION--(On the eleventh house): Friendly message, good news, invitation, pr
  Tendency to please and to make things and certain persons appear better than they are in reality, either to flatter them or to seduce the querent. It may also be that the querent will be flattered. Praise and persuasion. A man very much open to sex-influences.
 
 
-
-
+Next: Knight of Cups
 Knight of Cups
 TRADITION: "The higher graces of the imagination" (W.). Arrival, approach, advances, proposition, demeanour, invitation, incitement, reception, comparison. Reversed: Trickery, fraud, duplicity, subtlety, swindle, artifice.
 THEORY: The Water of the soul on the Twelfth and on the Eighth house. The double influence of water makes the emotions and feelings prominent, relates to the imagination, to deeper experiences and strong reactions of the soul, processes of psychic life, which may end in wonderful success or in less desirable phenomena. It is sure to indicate much relating to the subways of human life and the human soul. This is not always favourable or pleasant, of course, but is in almost every instance intensive, though the cups never go to anything like hatred or crime or real malice. Their weakness is in being unreliable or incalculable with regard to things of the exact world or matter. So in the worst cases this card may indicate everything connected with swindling from sheer mental instability. But it may also be, that the term 'swindler' (charlatan) is wrongly given to people who are standing apart from the common herd and are more or less occultists. The "higher graces of the imagination."
@@ -1601,8 +1529,7 @@ CONCLUSION--(On account of the twelfth house): A stranger, sailor or naval offic
 
 
 
-
-
+Next: Ace of Swords
 SWORDS Ace
 TRADITION: The extreme or excessive, triumph, force. "It is a card of great force, in love as well as in hatred." (W.) Vehemence, fury, etc. Limits, extremity, frontier, confinement. Reversed: Conception, pregnancy, childbirth, fructification, production, enlarging, augmentation.
 THEORY: This is the first step of the element of Earth, coming on the First house or ascendant. Of course this has to do with a beginning, a strong outpouring of force, an impulse, and a material one too. Positive activity on the material plane is typically masculine, and this is a very masculine card, perhaps the most of all. There is no negotiation possible with it. It is emphatically 'yes' or 'no.' One of the primary expressions of the masculine is fructification, and the male action is indicated by this card. For the same reason it means germ, seed. And its natural consequence is conception and childbirth, the ace indicating here also the ascendant. In everything this card means the actual beginning in material execution, which at the same time may cut short something else. It may mean decapitation, or any justiciary execution. It signifies of course a decision, the end of uncertainty or twilight. It is a fresh starting point in matter: 'alea jacta est.' And so it may as well mean a strong demand, an appeal. There is courage in it and firm initiative. It may cause pain and affliction, but annihilates doubt, the greatest torture.
@@ -1611,8 +1538,7 @@ CONCLUSION: Initiative, force, masculine activity,
 seed, germ, commencement in matter, decision, starting point, emphasis; fructification. Execution, affliction, pain, but annihilation of doubt and uncertainty. Courage, firmness, integrity. May denote great passion or intense enmity. Fury, vehemence.
 
 
-
-
+Next: Two of Swords
 Two of Swords
 TRADITION: Friendship, attachment, affection, intimacy, affinity, tenderness, attraction, etc. "Concord in a state of arms." (W.) Reversed: Falsity, imposture, lie, duplicity, bad faith, deception, superficiality.
 THEORY: The element Earth on the Second house. By virtue of the Venusian qualities of the Taurus-house, this Saturnian and Martian element, as will easily be understood, leads up to the magnetic affinity of the sexes, consequently to intimacy, attraction, affection, etc. But the idea of 'friendship' is different and not in this card. It denotes also artistic appreciation, founded on the perfect functioning of the senses. Taste for art will be born from this and an exact knowledge of prices and values. It is the card which means quality and essential virtue. Therefore it has been rendered as 'falsehood,' etc., when reversed, i.e. when the innate virtue is wanting. Now in weak cases this card will certainly denote sensuality and lazy luxurious habits, which will be found accompanied in many instances by the desire for money. For the rest we see in such cases the possibility of stupid resistance, dullness, cruelty, relentless opposition and recreation, passive obstruction, perhaps silent, unforgiving hatred. But in another respect it means the will to cultivate
@@ -1621,8 +1547,7 @@ the soil, in the literal as well as in the figurative sense.
 CONCLUSION: Latent force, magnetism, the principle of art, artistic appreciation; quality, virtue; magnetic attraction, affinity, intimacy, affection, that force which binds by the reduction of the senses; in weak cases sensuality, laziness, dullness. When badly aspected cruelty, unforgiving hatred, passive obstruction, etc.
 
 
-
-
+Next: Three of Swords
 Three of Swords
 TRADITION: Departure, absence, rupture, delay, division, removal, being-far-away. Also aversion, hatred, disgust, etc. Contrarieties, opposition, unsociable qualities, gruffness, separation, etc. Reversed: Mental worries, troubles and even alienation. Error, mistake, loss. A nun.
 THEORY: The element of Earth on the Third house acts in the way of the mind and mental processes, and must appear as 'troubles,' etc., because it gives the feeling of the mind being burdened, which might easily go as far as oppression. If the burden becomes too heavy, either the body or the soul may suffer severely, and pain, affliction or mental aberration may ensue. This card must generally mean bad news too, the message which brings news of the affliction. It may be a corrective to a too easy and volatile imagination. It will in most cases denote some sickness, as a result of the pressure or oppressed feeling in the mind or in circumstances in general. It may be the result of worrying. The house of Gemini also suggests some suffering on account of distance, separateness, being far from one other. And the oppressed mind, which cannot have its
@@ -1631,8 +1556,7 @@ way, may easily denote the spiritual condition of a nun or some one who takes re
 CONCLUSION: Oppression, worries, being burdened, baffled hopes, troubles, tendency to separateness, rupture and seclusion, pessimism. Removal, absence, delay. Small talk, bitter and evil thought, sickness; in bad cases alienation. Error of judgment, wrong opinion, hatred, aversion, etc. In general: affliction. Scheming, but not in a good sense.
 
 
-
-
+Next: Four of Swords
 Four of Swords
 TRADITION: Solitude, retreat, hermitage, exile, isolation, inhibited condition, abandonment. Tomb and coffin. Reversed: Economy, good conduct, circumspection, precaution, wise administration, testament, avarice, household, savings, order, etc.
 THEORY: The element of Earth on the Fourth house, house of the home and the sign Cancer. This immediately explains why this card has been said to stand for economy, savings, even avarice and household affairs as well as for many things in connection with the end of life, since the fourth house in the horoscope relates to the end of life, and to the inner side of life as long as this lasts. Tradition is
@@ -1641,8 +1565,7 @@ once more very correct in this case. When it enumerates "concord, harmony, etc.,
 CONCLUSION: Solitude, repose, retreat, retiring from the world, "hermit's repose" (W.); gathering, collecting, taking home one's savings or impressions, meditation, economy, avarice, precaution, testament, and the place occupied at the end of life, hermitage, grave, coffin. The place of the card in the horoscopic scheme indeed suggests the idea of being buried under the earth.
 
 
-
-
+Next: Five of Swords
 Five of Swords
 TRADITION : Loss, dishonour, degradation, defeat, ruin, reversal of fortune, diminution, wronging, bad luck, destruction, etc. Reversed : Much the same, burial, obsequies. It is also said to represent a thief and theft, corruption, seduction, plague, and all that is hideous and horrible.
 
@@ -1650,8 +1573,7 @@ THEORY: The element of Earth with its influence of Mars and Saturn on the Fifth 
 CONCLUSION: Affliction, crisis, morose disposition, bitterness, impotence, lack of self-respect, or self-confidence; it may be that self-confidence is ascertained by some struggle or conflict; difficulties, which after all may prove very useful but necessitate much self-discipline. In the same way discipline of children is necessary. Enterprise or expansion is impossible or not advisable. Things indicated by this card may indeed be bad-looking or unpromising. There will be a question of a loss in most cases.
 
 
-
-
+Next: Six of Swords
 Six of Swords
 TRADITION: Route, way, path, envoy, journey by water, emigration, manner, expedient. Reversed: Proclamation, declaration, publication, avowal, knowledge, charter, constitution, bill, ordinance, discovery, vision, revelation, apparition. A proposal of love, says another rendering.
 THEORY: This is the element of Earth on the Sixth house, and the Virgo-particulars expressed in 'earth' become the 'ways' that carry the message from the centre, the heart, to the parts of the system. So it is the nervous system and the arterial system in the animal and human body. Thus it must be the way or path leading out into the world from our house or living place. This explains what tradition says about envoy and emigration, though the latter is somewhat far-fetched, and not in every instance will the way lead so far as that, nor the path be trodden until we meet with a 'proposal of love.' But it is true, that the effect of that which this card represents may go far and in general signifies the message in the sphere of matter (Mercury is lord of this house), the message materialised. And this explains why tradition says it means 'apparition'--'publication'--'constitution' etc. It is quite correct therein. The message is conveyed by means of the way, path, canalisation, etc., and appears in some effect or other. So it may even be a vision or materialisation from the 'other side.' It may also, however, be the passing over to that side, the crossing of the Styx, which seems to be indicated by the picture of this card. The cusp of the seventh house in the horoscope
@@ -1660,8 +1582,7 @@ is 'the end,' in the same way as the ascendant is 'the beginning.' Though tradit
 CONCLUSION: Route, way, canal, conveyance, nervous system, arterial system; experiment, order of service, practical prescriptions for any service, rules and measures of internal service. It warns that care must be taken for health and the internal service of the body must be cleared, in order to avoid intestine troubles. There may be something of a course, a voyage to be made, a cure or even emigration, if other indications confirm it. If in connection with Venusian influences, sensuality and the expressions of it. If badly aspected: serious illness and probability of the passing away of the patient.
 
 
-
-
+Next: Seven of Swords
 Seven of Swords
 TRADITION: Hope, wish, design, will, taste, fantasy. Another version says: "Also quarrelling; a plan that may fail." (W.) Reversed: Good counsel, advice, helpful warning, news, announcement, consultation, observation, reflexion, lesson, instruction, slander, babbling.
 THEORY: The element Earth on the Seventh house indicates the actual and material union of the Self and the Not-self in the organism, as a material building. In this we have to see the 'accomplishment' or attainment of the Self, that which the Self wishes to join. Since the seventh house represents 'the opponent' as well, there may be something like quarrelling in this card, attempts to reach agreement with an opponent; this will be done in a practical,
@@ -1671,8 +1592,7 @@ Tradition is rather elusive in its definitions of this card; there are some part
 CONCLUSION: Meeting the opponent, perhaps some fighting, but more probably the strategy than the fighting itself is indicated. Using the weapons of the enemy. Practical ability. Science of the arts and crafts. Tricks. Understanding of practical and material obstacles, and of the work to be done. The enemy will be disarmed, arguments undone. A person of technical ability; favours technical professions. Success by means of capability, combined with diplomacy. Good care taken. Scheme, design.
 
 
-
-
+Next: Eight of Swords
 Eight of Swords
 TRADITION: Critical position, censure, crisis, chagrin, examination, research, control, condemnation, judgment, sickness, calumny. Reversed: Difficulty, obstacle, accident, treachery, fatality, adventure, etc.
 
@@ -1680,8 +1600,7 @@ THEORY: The element of Earth on the Eighth house, the house of death and of the 
 CONCLUSION: Obstacles, conflict, danger, hampering, affliction, criticism, sex-problems of a threatening nature, danger of death sometimes, fatality; revenge, debt, poverty, condemnation, sickness. Patience and endurance will be necessary or helpful. Uncouth female. Incident or accident.
 
 
-
-
+Next: Nine of Swords
 Nine of Swords
 TRADITION: A bachelor, priest, clergyman, hermit; monastic order, monastery, church; religion or cult; devotion, rite, ritual, ceremony. Another version says: "Death, failure, miscarriage, delay, deception, disappointment, despair." (W.) Reversed: Justified doubt, fear or mistrust, scruple, shame, imprisonment; timidity, pudor.
 THEORY: On the house of Sagittarius, the Ninth, the element of Earth must of course relate to the earthy side of religion, i.e. the material expressions of it, to the more heavy, earthy, materialistic mind and its ideas about religion, ethics, etc. It is not very flattering for priesthood in general, perhaps, that from this sort of condition have come so many of those who call themselves ecclesiastics, but still it is natural, because the 'ecclesia,' which has been built upon the rock (Petrus = Capricorn,) is served by the teachers or inspirers of it, to be found in the preceding house. In lay language this means: the expression of religion, of ideals and ideas, descending into matter, taking material shape and culminating in the church or monastery, which, however, come under the tenth house, and into dogma and creed under the ninth. Under the latter's influence are the representatives of dogma and creed, viz. priest, officiant, monastic or monk. It is fairly sure, that from the essence of this card arises inquisition and every sort of intolerance, religious intolerance above all, because the materialistic mind thinks itself in possession of the only expression of Truth, and condemns every other. So this card nay also indicate all sorts of hard judgment, rigid attitudes of mind, orthodoxy.
@@ -1690,8 +1609,7 @@ THEORY: On the house of Sagittarius, the Ninth, the element of Earth must of cou
 CONCLUSION: Dogma, dogmatism, ecclesiastic spirit, scholastic mind, creed, rite, ritual, ceremonial. The persons representing these. Hard judgment, orthodoxy, rigid attitude of mind, ascetism. Intolerance, inquisition. The 'fear of God' may well be turned into hatred of mankind. In weak cases there may be swearing, atheism, agnosticism, shyness, miscarriage, shame, false evidence given, error of judgment. In strong cases the mind is scrupulous, conscientious, and in strict accord with time and fashion.
 
 
-
-
+Next: Ten of Swords
 Ten of Swords
 TRADITION: Tears, affliction, plaints, complaints, sadness, desolation, sorrow. Reversed: Advantage, profit, favour. "But none of these are permanent," says W.-- Power, might, usurpation, authority.
 THEORY: The element of Earth on the Tenth house: Capricorn, of course relates to authority and earthy might or power, and we do not see why this should be only in a 'reversed' position. With regard to religion this is the mother-church (compare: Capricorn the 'married woman' or the mother), the materialisation of dogma and creed in a building, a church, chapel, monastery. In the secular line it may be any official building or office and, relating to persons, any official or public authority under the civil law. The card represents material
@@ -1701,8 +1619,7 @@ CONCLUSION: Karmic results, whether benefic or malific; material limits, physica
 P.S.--The cards of the suit of swords, from the ace up to the ten, relate to the respective 'sins' prohibited by the Ten Commandments.
 
 
-
-
+Next: King of Swords
 King of Swords
 TRADITION: A man of the law or robe, councillor, senator, business-man, doctor, etc. "Whatsoever arises out of the idea of judgment and all its concessions, power, authority, command, militant intelligence . . ." (W.) Reversed: Bad intentions, evil, perversity, perfidy, cruelty, etc.
 
@@ -1710,8 +1627,7 @@ THEORY: The King of the suit of Earth, coming on the house of Aries, First house
 CONCLUSION: General, captain, military chief, worldly authority, chief or captain in any branch of activity, man of the law; power, command, decision, initiative, pioneering, valour, integrity, severity, material certainty; in weak cases cruelty, misuse of power, tyranny.
 
 
-
-
+Next: Queen of Swords
 Queen of Swords
 TRADITION: Widowhood, female sadness, privation, absence, sterility, poverty, vacancy, unemployment, mourning, separation. Reversed: Bad woman, malice, bigotry, prudishness, hypocrisy, artifice, deceit.
 THEORY: The female rulership of the element of Earth on the house of Taurus, in which the Moon is exalted and 'womanhood eternal' is contained. The house of money, in worldly affairs. So this card must mean either woman ruling by matter, material or magnetic attraction, purely physical charm, or ruled by material elements herself. The latter may be seen as: ruled by the desire of luxury and money, or as: overpowered by material difficulties, weighed down under the burden of a material world. A woman of Saturnian and Martian qualities is seldom charming unless in a purely physical and sexual way; there may be higher virtues, however, which in this case will be developed by suffering, such as chastity, severity, continence--from which it will be easily seen, that sterility, privation and mourning may derive, personally. Astrologically the Martian and Saturnian qualities are seldom found to be very 'benefic' for women, being very often signs of an unpleasant character or injured reputation. On the one hand this card may be a woman under affliction and severed from her natural protector or protection--widow, divorced, separated, though not the unmarried; on the other hand we have to see in this card the woman who is paid for her 'love,' and the fact that "woman costs money," a fact of more occult significance than the world at
@@ -1720,8 +1636,7 @@ large understands. It is indicated in the commandment of JHVH that 'man' should 
 CONCLUSION: Suffering, afflicted woman, widow, divorced or separated; or woman of a lower sort of character, hateful, spiteful, paid love, deception in love; material stress, heavy expenses, burdening; also exploitation, peasantry, possibility of wealth after enduring toil. In many cases it means sterility, privation. Only strong characters can stand this card. To weak characters it is full of menace and may cause grief, mourning, failure in the face of the hardship of life and unemployment. It may mean the absence of woman where she is wished for or desired. It warns against the evil influence of (a) woman.
 
 
-
-
+Next: Page of Swords
 Page of Swords
 TRADITION: Overseer, artist, learned man, spy, indiscreet person, who will eventually "pry into the querent's secrets." Secret service, vigilance, examination, calculation, speculation. A note, observation, remark. Reversed: "The more evil side of those qualities" (W.); the unforeseen sudden, surprising; improvisation. Acting or speaking without due preparation.
 THEORY: The Martian and Saturnian element on the Third house and on the Eleventh. It is very
@@ -1731,8 +1646,7 @@ remarkable, that the first series of meanings in this case hint at the third hou
 CONCLUSION: Results of exact studies, knowledge, note, observation, warning, indication, examination, inspection, investigation; inspector, constable, police-officer, and their orders; spy, detective, examiner. Dilettante, one who will surprise by his daring but is not well prepared in speech or acting., The latter in weak cases. Sudden, rather unexpected, surprising events or effects.
 
 
-
-
+Next: Knight of Swords
 Knight of Swords
 TRADITION: A military man, officer, master of the sword, master of fencing, warrior. Dispute, war, duel, combat, attack as well as defence; opposition, destruction, ruin, hatred, etc. Also skill, bravery, capacity. Reversed: Incapacity, imprudence, extravagance, foolishness, impertinence, stupidity, industry, crooked tricks.
 THEORY: Finally this element on the Fourth and on the Twelfth houses. On account of the former we find of course the armed man under the rule of the Emperor, the military man, soldier, etc., but rather the professional, formerly the hired, troops than the militia, which will rather fall under the same house as the police, and be indicated by the page of swords. Another significance of this card is that of painful memories, suffering by ancient wrongs. In fact war is in all cases, be it private or collective, the phenomenon of the outbreak of some ancient wrong or evil--the wrong of oppression on one side or the evil of desire, rapacity, overflowing force, etc., on the other. So the Knight of swords must bear the significance of the bearer of weapons, which avenge wrongs or serve attacks. The fourth house calls the home and the family, the father in particular, and the
@@ -1742,12 +1656,10 @@ CONCLUSION: Military man, man of arms, one avenging family or other feuds or wro
 
 
 
-
-
+Next: Epilogue
 EPILOGUE
 
-E offer the descriptions in this work with the most humble reserve as regards completeness. We are fully aware, that on these lines the last word will not be said in the near future. On the other hand we feel sure, that the key to the mystic system, known as the TARO(T), presented here, does work, for we have used it in practical divination for some time already and it has proved to be true, apart from its theoretical value, which may be judged by those who have studied the ancient mysteries in general and astrology in particular.
+E offer the descriptions in this work with the most humble reserve as regards completeness. We are fully aware, that on these lines the last word will not be said in the near future. On the other hand we feel sure, that the key to the mystic system, known as the TARO(T), presented here, does work, for we have used it in practical divination for some time already and it has proved to be true, apart from its theoretical value, which may be judged by those who have studied the ancient mysteries in general and astrology in particular.  
 We abstain from adding more concerning the practice of divination in the present volume--it will demand another one.
  
-   
-
+  

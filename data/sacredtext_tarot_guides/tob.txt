@@ -9,7 +9,7 @@ London, Chapman and Hall, Ltd.
 [1892]
 Scanned at sacred-texts.com, September, 2003. J. B. Hare, redactor. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
-Click to enlargeABSOLUTE KEY TO OCCULT SCIENCE.
+ABSOLUTE KEY TO OCCULT SCIENCE.
 Frontispiece.
 
 To
@@ -19,8 +19,7 @@ TO ALL ITS DISCIPLES.
  
 
 
-
-
+Next: Preface
 PREFACE.
 THE Tarot pack of cards, transmitted by the Gypsies from generation. to generation, is the primitive book of ancient initiation. This has been clearly demonstrated by Guillaume Postel, Court de Gébelin, Etteila, Eliphas Levi, and J. A. Vaillant.
 The key to its construction and application has not yet been revealed, so far as I know. I therefore wished to fill up this deficiency by supplying Initiates, i. e. those who are acquainted with the elements of occult science, with an accurate guide, which would assist them in the pursuit of their studies.
@@ -33,8 +32,7 @@ PAPUS.
  
 
 
-
-
+Next: Contents
 CONTENTS.
 
 
@@ -398,8 +396,7 @@ TABLE OF THE AUTHORS AND PRINCIPAL WORKS QUOTED
 
 
 
-
-
+Next: Chapter I. Introduction to the Study of the Tarot
 THE TAROT.
 CHAPTER I.
 INTRODUCTION TO THE STUDY OF THE TAROT.
@@ -529,8 +526,7 @@ Footnotes
 9:7 Eliphas Levi.--Op. cit.
 
 
-
-
+Next: Chapter II. The Sacred Word Yod-He-Vau-He
 PART I.
 GENERAL KEY TO THE TAROT,
 GIVING THE ABSOLUTE KEY TO OCCULT SCIENCE.
@@ -712,7 +708,7 @@ Footnotes
 19:1 See the Kabbala Denudata.
 19:2 Translated into English by Dr. Wynn Westcott.
 19:3 See the Kabbala Denudata.
-20:1 See Kircher, Œdipus Ægyptiacus; See Lenain, La Science Kabbalistique; See J. Dée, Monas Hieroglyphica.
+20:1 See Kircher, dipus Ægyptiacus; See Lenain, La Science Kabbalistique; See J. Dée, Monas Hieroglyphica.
 20:2 See Saint-Martin, Des rapports qui existent entre Dieu, l'Homme et l'Univers. See Lacuria, Harmonies de l'Être exprimées par les nombres.
 21:1 See Eliphas Levi, Dogme et Rituel de la Haute Magie; la Clef des Grands Mystères;--Lacuria, op. cit.
 21:2 See Fabre d'Olivet, La Langue Hébraïque Restituée.
@@ -722,8 +718,7 @@ Footnotes
 24:1 The second He, upon which we are intentionally dwelling at some length, may be compared to a grain of wheat relatively to the  ear. The ear, the Trinity, manifest or yod-he-vau, exerts all its activity in the production of the grain of wheat, or second He. But this grain of wheat is only the transition between the ear which gave it birth, and the ear to which it will itself give birth in the following generation. It is the transition between one generation and another which it contains in germ; this is why the second He is a Yod in germ.
 
 
-
-
+Next: Chapter III. The Esoterism of Numbers
 CHAPTER III.
 THE ESOTERISM OF NUMBERS.
 The Theosophic Numbers and Operations--Signification of the Numbers.
@@ -950,8 +945,7 @@ Footnotes
 31:1 See for further enlightenment the Traité Elémentaire de Science Occulte, p. 49 and following.
 
 
-
-
+Next: Chapter IV: Analogy Between the Sacred Word and Numbers
 CHAPTER IV.
 ANALOGY BETWEEN THE SACRED WORD AND NUMBERS.
 The Kabbalistic Word and the Series of Numbers--Explanation of the Tetractys of Pythagoras--Figuration of the General Law.
@@ -1129,8 +1123,7 @@ vau 
 symbolized through antiquity by the Cross.
 
 
-
-
+Next: Chapter V: The Key to the Minor Arcana
 CHAPTER V.
 THE KEY TO THE MINOR ARCANA.
 Formation of the Tarot--Study of a Colour--The Four Figures--The Ten Numbers--Affinity between the Figures and the Numbers--Study of the Four Colours--General Study of the Minor Arcana.
@@ -1195,7 +1188,7 @@ The packet consists of 4 figures: the king, queen, knight, and knave, and of ten
 The ace, two, three, four, five, six, seven, eight, nine, and ten.
  
 
-Click to enlarge
+
  
 
 THE FOUR FIGURES.
@@ -1594,7 +1587,7 @@ The 10
 FIGURATION OF ONE COLOR
  
 
-Click to enlarge
+
  
 
  
@@ -1630,7 +1623,7 @@ The 2nd He or Pentacles by the Host, the transition from the natural to the Supe
 
  
 
-Click to enlarge
+
  
 
 The series which we have studied in one colour is defined equally strictly in the four colours regarded as a whole, thus--
@@ -1750,7 +1743,7 @@ The 4 Nines
 
  
 
-Click to enlargeGENERAL FIGURE OF THE MINOR ARCANA.--Disposition of Series.
+GENERAL FIGURE OF THE MINOR ARCANA.--Disposition of Series.
  
 The vital body of the minor arcana:
  
@@ -1764,9 +1757,9 @@ The 4 Sixes
 
  
 
-Click to enlarge
 
-Click to enlarge
+
+
  
 
 The intellectual body:
@@ -1803,8 +1796,7 @@ Footnotes
 49:1 See the Traité Élémentaire de Science Occulte, chap. iii.
 
 
-
-
+Next: Chapter VI: The Key to the Major Arcana
 CHAPTER VI.
 THE KEY TO THE MAJOR ARCANA.
 The Major Arcana--1st Ternary--2nd Ternary--1st Septenary--2nd Septenary--The Three Septenaries and the Ternary of Transition.
@@ -2090,8 +2082,7 @@ Finally, the last ternary indicates the passage from the creative and providenti
 This ternary establishes the connection between the major and minor arcana.
 
 
-
-
+Next: Chapter VII. Connection Between the Major and Minor Arcana
 CHAPTER VII.
 CONNECTION BETWEEN THE MAJOR AND MINOR ARCANA. GENERAL AFFINITIES.
 KEY OF THE TAROT.
@@ -2724,7 +2715,7 @@ The different colours indicate the especial dominion of each arcanum.
 
  
 
-Click to enlargeGRAND GENERAL FIGURE OF THE TAROT.--Arrangement of Series.
+GRAND GENERAL FIGURE OF THE TAROT.--Arrangement of Series.
  
 
 
@@ -2732,8 +2723,7 @@ Footnotes
 62:1 The signs +, -, ∞ indicate: the sign + the positive terms, the sign - the negative terms, the sign ∞ the neuter terms.
 
 
-
-
+Next: Chapter VIII. Introduction to the Study of Symbolism
 PART II.
 SYMBOLISM IN THE TAROT.
 APPLICATION OF THE GENERAL KEY TO SYMBOLISM.
@@ -3172,8 +3162,7 @@ Footnotes
 79:1 The Hebrew alphabet thoroughly establishes this affiliation for the letters corresponding to these three numbers. (See 8th arcanum.)
 
 
-
-
+Next: Chapter IX. History of the Symbolism of the Tarot. Inquiry into its Origin
 CHAPTER IX.
 HISTORY OF THE SYMBOLISM OF THE TAROT. INQUIRY INTO ITS ORIGIN.
 The Tarot is an Egyptian Book--Its Transformations--Mantegna's Pack--Venetian Tarot--Florentine Tarot--Bolognese--Hindu Tarot--Chinese Tarot--Modern Tarots--Etteila--Marseilles--Besançon--Watillaux--Oswald Wirth--Italian and German Tarots--Constitution of the Symbolism of the Tarot--The 16 primitive Hieroglyphic Signs--The 22 Hebrew Letters.
@@ -4169,7 +4158,7 @@ We have already and sufficiently explained that the Tarot represents the ancient
 If we then wish to find a solid basis for the study of the symbols represented in the 22 major arcana, we may put the Tarot on one side for an instant, and devote ourselves to this ancient science. It alone can enable us
  
 
-Click to enlarge
+
  
 
 to attain our end, not in finding the explanation of the symbols, but in leading us to create them one by one, by deducing them from fixed and general principles.
@@ -4579,8 +4568,7 @@ Footnotes
 94:1 See above (p. 19): Study upon the word Yod-he-vau-he.
 
 
-
-
+Next: Scheme of Work
 CHAPTER X.
 THE SYMBOLICAL TAROT.
 THE FIRST SEPTENARY, 1ST TO 7TH ARCANA. THEOGONY.
@@ -4632,19 +4620,17 @@ Footnotes
 97:5 See Franck, The Kabbala, Paris, 8vo.
 
 
-
-
+Next: The First Card of the Tarot: Origin of the Signification of All the Others
 Footnotes
 100:1 See l'Occultisme Contemporain (M. Carré).
 101:1 See The Golden Verses of Pythagoras, and the Histoire Philosophique du Genre Humain.
 103:1 Clavis.
 103:2 La Philosophie Occulte (La Haye).
-103:3 Œdipus Ægyptiacus.
+103:3 dipus Ægyptiacus.
 104:1 See Le Roman Alchimique.
 
 
-
-
+Next: 1. The Juggler
 Footnotes
 108:1 It is curious to notice, when examining the position of the hands of the personages in the Tarot of Marseilles, how often this position represents the alphabetical letter to which the figure corresponds, according to Barrois (system of dactylology or primitive language). The arcana 1, 2 and 5 are especially noticeable in this respect.
 108:2
@@ -4658,20 +4644,17 @@ Perfect Intelligence and Supreme Benignity."
 111:1 According to Spinoza the only free cause and substance of all modes or phenomena, conscious and unconscious, past, present, and to come. [A. P.M.]
 
 
-
-
+Next: 2. The High Priestess
 Footnotes
 114:1 That which follows from the divine nature.
 
 
-
-
+Next: 3. The Empress
 Footnotes
 120:1 See the second He, and the study upon the number 4.
 
 
-
-
+Next: 5. The Pope
 CHAPTER XI.
 SECOND SEPTENARY. ARCANA 7 TO 13.
 ANDROGONY.
@@ -4691,20 +4674,17 @@ CHARACTER OF THE FIGURES.
 The 1st septenary has shown us the World of principles, or of the Creation under all its aspects; we shall now study the World of laws, or of Preservation.
 
 
-
-
+Next: 7. The Chariot
 Footnotes
 138:1 This letter, an intermediary between ה (He) and כ (Kaph), the one designating life, absolute existence, the other the relative life, assimilated existence, is the sign of elementary existence: it is the image of a kind of equilibrium, and attaches itself to ideas of effort, of labour, and of normal and legislative action.--FABRE D'OLIVET.
 
 
-
-
+Next: 9. The Hermit
 Footnotes
 145:1 See the study of the word Yod-he-vau-he.
 
 
-
-
+Next: 11. Strength
 CHAPTER XII.
 THIRD SEPTENARY. ARCANA 13-19.
 Key of the 3rd Septenary--The Mem and Death--The Nun and Temperance--The Samech and the Devil--The Ayin and the Lightning--struck Tower--The Tzaddi and the Moon.
@@ -4725,22 +4705,19 @@ The second has developed the World of Laws, or of Preservation.
 The third will now show us the World of Facts, or of Transformation. We shall now see how the circulation of the forces of the two first septenaries is established.
 
 
-
-
+Next: 13. Death
 Footnotes
 174:1 Placed at the commencement of a word it indicates the movement which leads towards the end; placed at the end it marks the term itself to which it has tended; it then receives this form, ץ. It is derived from the letter Samech ס (15) and the letter Zain ז (7), and it marks the secession of one or the other.
 
 
-
-
+Next: Constitution of the Universe
 CHAPTER XIII.
 GENERAL TRANSITION. ARCANA 19 TO 21.
 The Qoph and the Sun--The Resh and the Judgment--The Shin and the Fool--The Vau and the Sun.
 The Ternary of Transition.
 
 
-
-
+Next: 19. The Sun
 Footnotes
 185:1 This letter is derived from its vocal י (Yod), become a consonant; and it adds to its original meaning the respective significations of the letters ז (Zain) and ס (Samech).--FABRE D'OLIVET.
 186:1
@@ -4753,8 +4730,7 @@ If he leave for to-morrow the work of to-day."
 
 
 
-
-
+Next: 22. The World
 CHAPTER XIV.
 GENERAL SUMMARY OF THE SYMBOLICAL TAROT. THEOGONY--ANDROGONY--COSMOGONY.
 Involution and Evolution. Theogony--The Absolute according to Wronski, Lacuria, and the Tarot--Theogony of divers Religions identical with that of the Tarot-Summary. Androgony--Cosmogony.
@@ -5106,7 +5082,7 @@ God is the Absolute, the essence of which is impenetrable, formed of the Univers
  
 THEOGONY.
 
-Click to enlarge
+
  
 
 ANDROGONY.
@@ -5142,7 +5118,7 @@ We will therefore conclude our study upon man by pointing out his constitution a
 
 ANDROGONY.
 
-Click to enlarge
+
 
 COSMOGONY.
 As we descend the ladder of the emanations of the Absolute Being, the principles become more material and less metaphysical. The Tarot teaches us that the Universe results from the participation of the Human in the creative actions of the Divine, a profound mystery, which can throw much light upon the theological theories of the Fall. Jacob Boëhm, the sublime visionary shoe maker, and Claude de Saint-Martin, his admirer and disciple, give upon this subject some explanations which may be easily understood with the Tarot, and to which we refer curious inquirers.
@@ -5158,7 +5134,7 @@ It is unnecessary to say that we only wished to give a rapid sketch of the evide
  
 COSMOGONY.
 
-Click to enlarge
+
  
 
 Let us now recapitulate a little, so that we may definitely end the involution of the three grand principles:
@@ -5831,8 +5807,7 @@ Footnotes
 212:3 See for further developments the works of Paracelsus and Van Helmont.
 
 
-
-
+Next: Chapter XV. General Key to the Applications of the Tarot
 PART III.
 APPLICATIONS OF THE TAROT.
 
@@ -5922,15 +5897,14 @@ influence of the providential cycle of the four ages of the human life. If we kn
 We think that these examples are sufficiently clear to enable us to proceed, and we shall now study some applications of the Tarot, leaving to the student the work of discovering a larger number.
  
 
-Click to enlarge
+
 
 
 Footnotes
 226:1 See Louis Lucas, Chimie Nouvelle, chapter upon "Angulaison."
 
 
-
-
+Next: Chapter XVI. The Astronomical Tarot
 CHAPTER XVI.
 THE ASTRONOMICAL TAROT.
 Egyptian Astronomy--The Four Seasons--The Twelve Months----The Thirty--six Decani--The Planets--Absolute Analogy with the Tarot--Figure containing, the Application of the Tarot to Astronomy--Key to the Astrological Works of Christian----Oswald Wirth's Astronomical Tarot.
@@ -7282,19 +7256,19 @@ PLANISPHERE,
 ACCORDING TO THE DATA OF THE PRECEDING TABLEAU,
 BY OSWALD WIRTH.
 
-Click to enlarge
- 
 
  
 
-Click to enlarge
+ 
+
+
 PENTACLE OF OSWALD WIRTH.
 Signs of the Zodiac and Circumpolar Constellations.
 Affinities with the Tarot.
  
 
 
-Click to enlarge
+
  
 
 Footnotes
@@ -7303,8 +7277,7 @@ Footnotes
 238:2 Ely Star, Les Mystères de l'Horoscope, Paris, Dentu, 1888. 18mo. (3 fr. 50.)
 
 
-
-
+Next: Chapter XVII. The Initiative Tarot
 CHAPTER XVII.
 THE INITIATIVE TAROT.
 Ch. Barlet's Essay on this Subject--Involution and Evolution--The Hours of Apollonius of Tyana--The Phases of Initiation represented by the Tarot.
@@ -7657,8 +7630,7 @@ Footnotes
 267:1 The magic which evokes the evil genii who injure man--A.P.M.
 
 
-
-
+Next: The Divine Name in the Tarot
 THE DIVINE NAME IN THE TAROT.
 By Ca. BARLET.
 The totality of the symbols which form the Tarot is distributed through a series of 78 plates or cards, instead of being presented in a single figure; the reason for this is, that the signification of this totality is very multiple; for it is at the same time theologic, cosmologic, psychologic, and divining, and this variety is the result of the different combinations which can be produced by the arrangement and comparison of these 78 cards. This variety is not one of the lesser beauties of this unique masterpiece, in the sense that it adds movement and consequently life to the usual immobility of every written representation, without counting the diversity of its appliances, which include numbers, words, form, and colour.
@@ -7758,7 +7730,7 @@ To find a second key, we must redeal our cards in a. given space; at first only 
 
  
 
-Click to enlargeFIG. 1
+FIG. 1
  
 
 Around this point upon the sphere, the reflex of the centre, we will place the cards of our 3 first arcana: I. (the Mage, the Spirit, י); II. (Knowledge, Substance, ה); III. (Love, the fertile Power, the Being, ו); and in order that this Trinity may be repeated in the whole septenary of our distribution we will make it the root of 3 great divisions, representing the 3 terms of the Trinity, which will divide the surface of our sphere by 3 meridians.
@@ -7849,7 +7821,7 @@ In the second sector (ה) the substantial principle is the feminine numbers II.,
 
  
 
-Click to enlargeFIG. 2
+FIG. 2
  
 
 In the third sector (ו), the Son, the Element, are the sacred numbers which participate in the two preceding orders, III., VI., IX.; as figure, the Knight; as colour, the Pentacle of the practical world, and the Sword also, which close the preceding sector; in the Zodiac, the signs through which the sun passes in the southern hemisphere; our winter, the season for the consumption of the produce of the earth, of renovation for the cycle which follows: Christmas is in the centre; the new birth in the winter of death; the time when the Son was born into an inferior world to reanimate it.
@@ -7907,8 +7879,7 @@ Footnotes
 287:1 The signification of the cards is borrowed from Fabre d'Olivet, Wronski, E. Levi, Christian, and the Sepher Yetzirah (translation by Papus).
 
 
-
-
+Next: Deductions by Etteila upon the Book of Thoth
 CHAPTER XVIII.
 THE KABBALISTIC TAROT.
 Deductions by Etteila upon the Book of Thoth--Example of the Application of the Tarot to the Kabbalah, the Hierogram of Adam by Stanislas de Guaita.
@@ -8061,8 +8032,7 @@ Footnotes
 293:1 See, for an explanation of these packets and the method of obtaining them, Chapter XX. (6th lesson).
 
 
-
-
+Next: Example of the Application of the Tarot to the Kabbalah. The Hierogram of Adam, by Stanislas De Guaita
 EXAMPLE OF THE APPLICATION OF THE TAROT TO THE KABBALAH.
 THE HIEROGRAM OF ADAM, BY
 STANISLAS DE GUAITA.
@@ -8092,8 +8062,7 @@ These four letters, יהוה (IEVE), symbolize the quaternary of Mercavah, the s
 (Fragment of the Serpent of Genesis published in the Lotus of March 1888, p. 327, and 328 note.)
 
 
-
-
+Next: Chapter XIX. List of the Authors who Have Interested Themselves in the Tarot
 CHAPTER XIX.
 LIST OF THE AUTHORS WHO HAVE INTERESTED THEMSELVES IN THE TAROT.
 Raymond Lulle--Cardan--Postel--The Rosicrucians--Court de Gébelin--Etteila--Claude de Saint--Martin--J. A.--Vaillant--Christian--Eliphas Levi--Stanislas de Guaita--Joséphin Péladan--The Platonist--Theosophical Publications--F. Ch. Barlet--Oswald Wirth--Poirel--Ely Star--H. P. Blavatsky--Ch. de Sivry--Mathers.
@@ -8112,7 +8081,7 @@ They possess a book from which they can learn everything that is in the books al
 We must not forget that the Rosicrucians are the Initiators of Leibnitz, and the founders of actual Freemasonry through Asmhole.
 COURT DE GÉBELIN. Born at Nîmes in 1725, died at Paris in 1784. An illustrious scholar, who discovered the Egyptian origin of the Tarot. Consult his Primitive World (1773-1783).
 ETTEILA (1783). We have given a summary of his work upon Fortune-telling with the Tarot, and upon the application of this work to the Kabbalah.
-CLAUDE DR SAINT-MARTIN. The unknown philosopher. Born in 1743 at Amboise, died in 1803. The disciple of Martinez Pasqualis and Jacob Bœhm, the founder of the So-called Martinist order. His book, the Tableau Naturel des Rapports qui existent entre Dieu, l'Homme et l'Univers, is based upon the Tarot.
+CLAUDE DR SAINT-MARTIN. The unknown philosopher. Born in 1743 at Amboise, died in 1803. The disciple of Martinez Pasqualis and Jacob Bhm, the founder of the So-called Martinist order. His book, the Tableau Naturel des Rapports qui existent entre Dieu, l'Homme et l'Univers, is based upon the Tarot.
 J. A. VAILLANT. Lived many years with the Gypsies, and received a great many of their traditions orally: these are contained in his works--
 
  Les Rômes, Histoire vraie des vrais Bohémiens (towards 1853).
@@ -8139,8 +8108,7 @@ This closes the list of authors whose books we have heard of, and who have allud
 
 
 
-
-
+Next: Introduction
 CHAPTER XX.
 THE DIVINING TAROT IN SEVEN LESSONS.
 Introduction: To our Lady Readers--Astronomy--and Astrology--Intuition--Fortune-telling by the Tarot in Seven Lessons.
@@ -8170,8 +8138,7 @@ However, we see that chance and intuition are the chief instruments in divinatio
 We will arrange them so that they maybe complete, and therefore it will be unnecessary to read all the preceding abstract studies before using the Tarot from this point of view. Lastly, we will explain the principal methods used by masters in the art of fortune-telling, so as to enable our readers to become adepts in the prediction of the future. But we must remind them that science has little empire over the subject, and that imagination and intuition reign over this charming domain.
 
 
-
-
+Next: First Lesson: Simplification of the Rules of Fortune-Telling by the Tarot
 FIRST LESSON.
 SIMPLIFICATION OF THE RULES OF FORTUNE-TELLING BY THE TAROT.
 THE great difficulty encountered by a beginner in the study of divination by the Tarot, is the number of meanings to be remembered in reading the cards.
@@ -8182,8 +8149,7 @@ divining Tarot, and endeavour to establish a system which will enable us to disp
 The first point to retain from the commencement of this study is the necessity for clear, simple rules, by which the divining Tarot may be read. We will explain them in the following lessons.
 
 
-
-
+Next: Second Lesson. Minor Arcana. Signification from the Divining Point of View
 SECOND LESSON.
 MINOR ARCANA. SIGNIFICATION FROM THE DIVINING POINT OF VIEW.
 THE Tarot pack is composed of 78 cards or plates; 22 of them bear symbolical names (the Juggler, Sun, Moon, Hanged Man, etc.), and they should be separated from the 56 others, which are divided into four great series: Sceptres, Cups, Swords, and Pentacles.
@@ -8405,8 +8371,7 @@ TEN. Uncertainty in the fortune. Great success and great reverses.
 As a whole, we see the same series always repeating themselves. It therefore requires little time to thoroughly learn the meaning of the minor arcana, even without much memory. We advise those readers who fear they may forget them, to simply write the meaning on the cards themselves. However, professional card readers are careful not to do this, for intuition often leads them to an interpretation which differs from the exact meaning of the card.
 
 
-
-
+Next: Third Lesson. Major Arcana. Signification from the Divining Point of View
 THIRD LESSON.
 MAJOR ARCANA. SIGNIFICATION FROM THE DIVINING POINT OF VIEW.
 WE now know the signification of the minor arcana, and need only study the major arcana.
@@ -8579,8 +8544,7 @@ ASSURED SUCCESS.
  
 
 
-
-
+Next: Fourth Lesson. Basis of the Application of These Data. Arrangement of the Cards
 FOURTH LESSON.
 BASIS OF THE APPLICATION OF THESE DATA. ARRANGEMENT OF THE CARDS.
 WE are now in a position to handle the Tarot as a means of divination.
@@ -8660,8 +8624,7 @@ The last three houses and the four preceding ones will he filled by the major ar
 The Inquirer will be in the centre of the figure.
 
 
-
-
+Next: Fifth Lesson. Fortune-Telling by the Tarot
 FIFTH LESSON.
 FORTUNE-TELLING BY THE TAROT.
 I.--RAPID PROCESS:
@@ -8856,8 +8819,7 @@ The explanation of the meaning of the arcana will be perfectly easy, when the le
 Practice will teach all these details far better than all the theories in the world.
 
 
-
-
+Next: Sixth Lesson. Etteila's original and unpublished Method of Fortune-telling by the Tarot
 SIXTH LESSON.
 Etteila's original and unpublished Method of Fortune-telling by the Tarot (from one of his rarest works).
 WE have explained a method which is original in a great measure, but as we have no intention of monopolizing the art of Cartomancy, we will now say a few words upon the system used by Etteila, the great master in this portion of occultism.
@@ -9052,8 +9014,7 @@ yod he vau he
 330:1 Perhaps we have misunderstood Etteila, who is very obscure in his books, and whom we are trying to explain; but this last operation seems perfectly useless.
 
 
-
-
+Next: Seventh Lesson. Conclusion
 SEVENTH LESSON.
 CONCLUSION.
 WE have learnt that intuition and practice are necessities in the art of fortune-telling by cards, now that this art has lost its scientific principles (Astronomy) and launched into empiricism. Having made this reserve in our opinion of its present value, we have studied the best method of applying the Tarot to this curious practice, and with this object we have learnt the meaning of the minor and major arcana, and the best arrangement of the cards for reading them. With this method, which is chiefly the result of our previous studies, we were anxious to give one of the most ancient systems, and chose the one used by Etteila, the founder of Cartomancy.
@@ -9067,8 +9028,7 @@ Madame Clément, Le Corbeau Sanglant ou l'Avenir Dévoilé. R.
 The works of Etteila we have already quoted.
 
 
-
-
+Next: Chapter XII. Application of the Tarot to Games
 CHAPTER XXI.
 APPLICATION OF THE TAROT TO GAMES.
 The Royal Game of Human Life played by the Egyptians. The Unity of Games in the Tarot.
@@ -9129,8 +9089,7 @@ This opinion was evidently adopted, and the game chosen as a vice was preferred.
 Such is the story or the history confided to me by this old manuscript, upon the origin of the father of our great games, and I am very glad that it provided me with the means of proving my perhaps paradoxical assertion of their original unity.
 
 
-
-
+Next: Chapter XXII. Conclusion
 CHAPTER XXII.
 CONCLUSION.
 HAVING reached the end of our journey we must cast one rapid glance over the road we have followed, in order to give some account of the scope of our work.
@@ -9184,7 +9143,7 @@ Be this as it may, we have been frequently obliged to speak of occult science wi
 TO INITIATES.
  
 
-Click to enlarge
+
  
 
 An Initiate is one who possesses the elements of occultism, and who is therefore familiar with a whole vocabulary, which may well alarm a man of the world; this is our excuse for words which may sound pretentious to some minds, and this is why we were anxious to express our ideas quite clearly.
@@ -9195,8 +9154,7 @@ We hope that this recapitulation of the efforts of several years may prove usefu
 Footnotes
 343:1 Consult Saint-Yves d'Alveydre, Mission des Juifs.
 
-
-
+Next: Authors and Principle Works Quoted
 ALPHABETIC TABLE
 OF THE
 AUTHORS AND PRINCIPAL WORKS QUOTED.
@@ -9233,14 +9191,14 @@ HERMES TRISMEGISTUS 9
 HOLMES (Augusta).
 HOMER.--The Odyssey 7
 HESIOD.--Op. et Dies p. 104
-KIRCHER (the R. F. Jesuit)--Œdipus Ægyptiacus, 3 vols., fol., Rome, 1622.
+KIRCHER (the R. F. Jesuit)--dipus Ægyptiacus, 3 vols., fol., Rome, 1622.
 KABBALA DENUDATA.--Frankfort, 1764.. 2 vols., 4to., (Bib. Nat., A. 969).
 KORAN, the.
 LEVI (Eliphas, pseudonym of the Abbé Constant).--Dogme et Rituel de la Haute Magie, Paris, 2 vols., 8vo.; Histoire de la Magie, 8vo., Paris; La Clef des grands Mystères, 8vo., Paris (Fundamental works) 299
 LENAIN.--La Science Kabbalistique, 8vo. (A good summary.)
 LACURIA (P. F. G.).--Harmonies de l'Être exprimées par les nombres, Paris, 1847, 8vo., 2 vols. (Fundamental work.)
 LFJAY (Julien).--Editor of the Initiation. Has made an application of occult synthesis to Sociology.
-LACOUR.--Les Œloïm ou dieux de Moise, Paris, 1325, 8vo., 2 vols.
+LACOUR.--Les loïm ou dieux de Moise, Paris, 1325, 8vo., 2 vols.
 LOUIS LUCAS.--La Chimie Nouvelle, 1854, 8vo.; La Médecine Nouvelle, 1863, 2 vols., 8vo.; Le Roman Alchimique, 1853, 8vo. (Fundamental works) 226
 MONTIÉRE (George).--Chief Editor of the Revue l'Initiation.
 MOSES.--Le Sepher Bereschit (Genesis).
@@ -9253,7 +9211,7 @@ PAPUS.--Traité Elémentaire de Science Occulte, Paris, 1887, 18mo. (4th edit.).
 PARACELSUS.--Works by.
 POSTEL (Guillaume).--La Clef des Choses Cachées (Latin), 12mo. 297
 POLTI and GARY.--La Théorie des Tempéraments, 1889, 18mo. (Carré, publisher.)
-PÉLADAN (Joséphin).--La décadence Latine, Ethopœia, in 7 vols. (Edinger, Paris) 299
+PÉLADAN (Joséphin).--La décadence Latine, Ethopia, in 7 vols. (Edinger, Paris) 299
 POIREL, E.--Occultist, editor of the Tarot de Wirth, and of several other reproductions deduced from occult science 300
 RABELAIS (epigraph) 3
 
@@ -9279,7 +9237,3 @@ WIRTH (Oswald).--The Astronomical Tarot (in the course of work). See Index.
 WRONSKI (Hoené).--Le Messianism ou Réforme Absolue du Savoir Humain, Paris, 1825, 3 vols., small folio. See the complementary list of his numerous works in Occultism Contemporain by Papus.
 WOLSKA (A. de).
 YVES D'ALVEYDRE (Saint).--La Mission des Juifs, Paris, 1884, large 8vo. of more than 1000 pp. Alcan Levy, publisher. (Fundamental work.)
-
-
-
-

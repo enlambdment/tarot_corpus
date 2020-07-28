@@ -73,7 +73,7 @@
 <p align="right"><a href="gbt73.htm#page_140">140</a></p> </td> </tr> <tr> <td align="top" valign="top">
 <p> </p> </td> <td align="top" valign="top">
 <p><br/>   EPILOGUE</p> </td> <td align="bottom" valign="bottom">
-<p align="right"><a href="gbt87.htm#page_159">159</a></p> </td> </tr> </table><table align="LEFT"><tr><td align="CENTER" valign="CENTER"><img alt="I" src="img/iinit.jpg"/></td></tr></table><table align="LEFT"><tr><td align="CENTER" valign="CENTER"><img alt="T" src="img/tinit.jpg"/></td></tr></table><table border="1"> <tr> <td align="top" valign="top">
+<p align="right"><a href="gbt87.htm#page_159">159</a></p> </td> </tr> </table><table border="1"> <tr> <td align="top" valign="top">
 <p align="center"><i>Italian</i></p> </td> <td align="top" valign="top">
 <p align="center"><i>French</i></p> </td> <td align="top" valign="top">
 <p align="center"><i>English</i></p> </td> <td align="top" valign="top">
@@ -553,4 +553,4 @@
 <p align="center">„</p> </td> <td align="top" valign="top">
 <p align="right">XXI.</p> </td> <td align="top" valign="top">
 <p><i>The World</i></p> </td> <td align="top" valign="top">
-<p>Neptune</p> </td> </tr> </table><table align="LEFT"><tr><td align="CENTER" valign="CENTER"><img alt="T" src="img/tinit.jpg"/></td></tr></table><table align="LEFT"><tr><td align="CENTER" valign="CENTER"><img alt="W" src="img/winit.jpg"/></td></tr></table>
+<p>Neptune</p> </td> </tr> </table>

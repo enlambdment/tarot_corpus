@@ -5,8 +5,7 @@ by S. L. MacGregor Mathers
 HTML formatting at sacred-texts.com, December 2003. This text is in the public domain worldwide. This file may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 
-
-
+Next: Introduction
 The Tarot
 Its Occult Significance, Use in Fortune-Telling, and Method of Play, Etc.
 To enter, within the limits of this short treatise, upon any long inquiry into the History of Cards is utterly out of the question; and I shall therefore confine myself to examining briefly into what relates to their most ancient form, the Tarot, or Tarocchi Cards, and to giving, as clearly and concisely as possible, instructions which will enable my readers to utilise them for fortune-telling, to which they are far better adapted, from the greater number and variety of their combinations, than the ordinary cards. I shall also enter somewhat into their occult and Qabalistical significations.
@@ -384,8 +383,7 @@ TH
 Footnotes
 1 This is partly taken by Vaillant from Court de Gèbelin's "Monde Primitif" vol. 8, p. 387.
 
-
-
+Next: Symbolism of Each of the Keys
 SYMBOLISM OF EACH OF THE KEYS
 I will now describe carefully the symbolism of each of these hieroglyphical keys.
 1. The Juggler or Magician. Before a table covered with the appliances of his art stands the figure of a juggler, one hand upraised holding a wand (in some packs, a cup), the other pointing downwards. He wears a cap of maintenance like that of the kings, whose wide brim forms a sort of aureole round his head. His body and arms form the shape of the Hebrew letter Aleph, to which this card corresponds. He symbolises Will. 
@@ -415,8 +413,7 @@ Action (3) should find its Realisation (4) in deeds of Mercy and Beneficence (5)
 To prepare the pack for Fortune-telling, write at the top of each card its number and signification when in its proper position, and at the bottom its meaning when reversed. To facilitate this, and to assist in reading them I here append a list of the cards with the meanings, which, I think, will be found to answer all practical purposes R. means Reversed.
 
 
-
-
+Next: Meanings of the Cards
 MEANINGS OF THE CARDS
 1. The Juggler.--Will, Will-Power, Dexterity; R. Will applied to evil ends, Weakness of Will, Cunning, Knavishness.
 2. The High Priestess.--Science, Wisdom, Knowledge, Education; R. Conceit, Ignorance, Unskilfulness, Superficial Knowledge.
@@ -520,8 +517,7 @@ The Court-Cards, and especially the Kings and Queens, may be taken to represent 
 Where the mode of reading the cards requires that the person consulting should be represented, he should take one of the Kings to represent himself, according to his complexion. If a lady consults the cards, let her take one of the Queens; if she be rather fair, the Queen of Cups; if she be very fair, the Queen of Wands or Sceptres. If the inquirer be quite a youth or a boy, let him take one of the Knights; if a very young girl, let her take the Knave, etc. Etteilla's plan was to take two of the Keys for Significators, that answering to the Pope for a man, that answering to the High Priestess for a woman; but I do not think this is so well. The worst of Etteilla's system is that he so completely destroys the meanings of the Keys in his attempted rearrangement of them, as to make them practically useless for higher occult purposes.
 
 
-
-
+Next: Methods of Divination
 METHODS OF DIVINATION
 I shall now give several modes of laying out the cards for divination. The reader can adopt whichever he prefers, or he can combine them.
 Whatever mode of laying out be adopted, it is necessary that the person inquiring should carefully shuffle the cards, with two objects in view; firstly, that of turning some of the cards upside down; secondly, that of thoroughly altering their position and sequence in the pack. They should then be cut. During the shuffling and cutting the inquirer should think earnestly of the matter concerning which he is anxious for information; for unless he does this the cards will rarely read correctly. This shuffling and cutting should be thrice repeated. The backs of the cards should be towards the person shuffling.
@@ -1260,8 +1256,7 @@ Finally, combine them all together, thus--66 1; 65 2; 64 3; and so on up to 34 3
 This mode is rather difficult at first, but practice will give facility.
 
 
-
-
+Next: Tarot Game Play
 TAROT GAME PLAY
 These Tarot Cards may be used like the ordinary packs for games, as well as for divination; and it may be as well to give the general rules and mode of play. The Game of Tarot may be played by either two or three persons. The full pack of 78 cards is shuffled and cut in the ordinary manner. The dealer dears them out in three hands by five cards at a time, and places the remaining three cards at his own right-hand side. There will thus be three hands of 25 cards each, and three cards besides. The players sort their hands, and the dealer discards the three most useless cards in his own hand and exchanges them for the before-mentioned three cards. The deal is taken in rotation by each player. The method of dealing is the same, whether two or three players participate, three hands being dealt out in each instance, but if only two players contend with each other, the third hand is untouched by either party.
 The points constituting the game are 100, which may be marked on a cribbage board, on paper, or by an ordinary bezique-marker.
@@ -1441,8 +1436,7 @@ For every Trick of two plain Cards  
  If three players contend, of course the third player will form an additional factor in the game. Then, when the three compare their various scores in the same hand, only he who has most should score, and then only the amount by which he exceeds the player who comes second. The other players do not score at all.
 
 
-
-
+Next: Occult Significance of the Tarot Cards
 OCCULT SIGNIFICANCE OF THE TAROT CARDS
 Before concluding this short treatise, I will say a few words on the occult and Qabalistical signification of these wonderful Tarot Cards. It has been long known that the ordinary 52 card pack was susceptible of some peculiar numerical significations, e.g.:  
 
@@ -1507,7 +1501,3 @@ The symbols of three of the twenty-two Trumps of the Tarot were thus restored by
 10. The Wheel of Fortune.--A wheel of seven spokes, the cosmogonical wheel of Ezekiel, with a dog-headed figure ascending on one side (Anubis, the Egyptian Mercury); and a demon descending on the other (the Egyptian evil deity, Typhon); the former of these bears a caduceus, the latter a trident; both figures are bound to the wheel. Above them is a sphinx at the balance-point of the wheel, holding a drawn sword between its lion's claws.
 12. The Devil.--Throned on a cube above the Universe is a goat-headed, satyr-like figure, bearing on its brow the pentagram, apex upward, so as to make it a symbol of Light. With one hand it points upwards to the symbol of the Moon in increase, with the other downwards to that of the Moon in decrease, thus symbolising the eternal equilibrium of Mercy and Justice; the first two fingers and thumb of each hand are extended as in giving the sign of benediction. One arm is feminine, the other masculine. The torch of intelligence is placed between its horns, as the Magical Light of the Universal Equilibrium. The caduceus which holds the place of the generative organs signifies the eternity of life; the belly is covered with scales to represent Water; the circle above it is the atmosphere; the Wings are the emblem of the Volatile; and the deformed and goat-like feet rest upon the earth.
 Space does not allow me to enter further into the subject, on which, indeed, several volumes might be written without exhausting it. I can only hope that this short treatise will suffice to give my readers some idea of the recondite meaning of the Tarot Cards, and how to employ them in divination.
-
-
-
-

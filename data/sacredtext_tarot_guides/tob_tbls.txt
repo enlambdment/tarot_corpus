@@ -108,26 +108,26 @@ upon the unity.</p></td>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p align="CENTER">Active</p></i> <br/>
-1</td>
+<i></i><p align="CENTER">Active <br/>
+1</p></td>
 <td valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
 <tr><td valign="MIDDLE" width="33%">
-<i><p align="CENTER">Passive</p></i> <br/>
-2</td>
+<i></i><p align="CENTER">Passive <br/>
+2</p></td>
 <td valign="MIDDLE" width="33%">
 <p align="CENTER"><a name="img_cross"></a>
 <img src="img/cross.jpg"/></p></td>
 <td valign="MIDDLE" width="33%">
-<i><p align="CENTER">Passive-Active</p></i> <br/>
-4</td>
+<i></i><p align="CENTER">Passive-Active <br/>
+4</p></td>
 </tr>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p align="CENTER">Neuter</p></i> <br/>
-3</td>
+<i></i><p align="CENTER">Neuter <br/>
+3</p></td>
 <td valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
@@ -135,12 +135,12 @@ upon the unity.</p></td>
 <tr><td align="CENTER" valign="MIDDLE" width="33%">
 <p> </p></td>
 <td align="CENTER" valign="MIDDLE" width="33%">
-<i><p>Yod</p></i> </td>
+<i></i><p>Yod </p></td>
 <td align="CENTER" valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
 <tr><td align="CENTER" valign="MIDDLE" width="33%">
-<i><p>he</p></i> </td>
+<i></i><p>he </p></td>
 <td align="CENTER" valign="MIDDLE" width="33%">
 <p><a name="img_cross"></a>
 <img src="img/cross.jpg"/></p></td>
@@ -150,7 +150,7 @@ upon the unity.</p></td>
 <tr><td align="CENTER" valign="MIDDLE" width="33%">
 <p> </p></td>
 <td align="CENTER" valign="MIDDLE" width="33%">
-<i><p>vau</p></i> </td>
+<i></i><p>vau </p></td>
 <td align="CENTER" valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
@@ -208,12 +208,12 @@ upon the unity.</p></td>
 <tr><td align="CENTER" valign="MIDDLE" width="33%">
 <p> </p></td>
 <td align="CENTER" valign="MIDDLE" width="33%">
-<i><p>Yod</p></i> </td>
+<i></i><p>Yod </p></td>
 <td align="CENTER" valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
 <tr><td align="CENTER" valign="MIDDLE" width="33%">
-<i><p>he</p></i> </td>
+<i></i><p>he </p></td>
 <td align="CENTER" valign="MIDDLE" width="33%">
 <p><a name="img_cross"></a>
 <img src="img/cross.jpg"/></p></td>
@@ -223,7 +223,7 @@ upon the unity.</p></td>
 <tr><td align="CENTER" valign="MIDDLE" width="33%">
 <p> </p></td>
 <td align="CENTER" valign="MIDDLE" width="33%">
-<i><p>vau</p></i> </td>
+<i></i><p>vau </p></td>
 <td align="CENTER" valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
@@ -285,14 +285,14 @@ or<br/>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p align="CENTER">Ace</p></i> <br/>
+<i></i><p align="CENTER">Ace <br/>
 or<br/>
-Yod </td>
+Yod </p></td>
 <td valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
 <tr><td valign="MIDDLE" width="33%">
-<i><p align="CENTER">Two</p></i> or 1st He </td>
+<i></i><p align="CENTER">Two or 1st He </p></td>
 <td valign="MIDDLE" width="33%">
 <p align="CENTER"><a name="img_cross"></a>
 <img src="img/cross.jpg"/></p></td>
@@ -494,9 +494,9 @@ or<br/>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p align="CENTER">Vau</p></i> <br/>
+<i></i><p align="CENTER">Vau <br/>
 or<br/>
-Sword</td>
+Sword</p></td>
 <td valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
@@ -571,8 +571,8 @@ Sword</td>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p align="CENTER">vau</p></i> <br/>
-3</td>
+<i></i><p align="CENTER">vau <br/>
+3</p></td>
 <td valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
@@ -596,8 +596,8 @@ Sword</td>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p align="CENTER">vau</p></i> <br/>
-6</td>
+<i></i><p align="CENTER">vau <br/>
+6</p></td>
 <td valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
@@ -622,9 +622,9 @@ Sword</td>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p align="CENTER">vau</p></i> <br/>
+<i></i><p align="CENTER">vau <br/>
 ו<br/>
-(3--6)</td>
+(3--6)</p></td>
 <td valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
@@ -643,13 +643,13 @@ Sword</td>
 <p align="CENTER"><a name="img_cross"></a>
 <img src="img/cross.jpg"/></p></td>
 <td valign="MIDDLE" width="33%">
-<i><p align="CENTER">he</p></i> (19)</td>
+<i></i><p align="CENTER">he (19)</p></td>
 </tr>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p align="CENTER">vau</p></i> <br/>
-(15--18)</td>
+<i></i><p align="CENTER">vau <br/>
+(15--18)</p></td>
 <td valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
@@ -673,8 +673,8 @@ Sword</td>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p align="CENTER">vau</p></i> <br/>
-(21)</td>
+<i></i><p align="CENTER">vau <br/>
+(21)</p></td>
 <td valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
@@ -823,9 +823,9 @@ Knave of Pentacles,<br/>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p>Positive</p></i>.</td>
+<i></i><p>Positive.</p></td>
 <td valign="MIDDLE" width="33%">
-<i><p>Negative</p></i>.</td>
+<i></i><p>Negative.</p></td>
 </tr>
 <tr><td rowspan="3" valign="MIDDLE" width="33%">
 <p>Major Arcana</p></td>
@@ -890,9 +890,9 @@ Knave of Pentacles,<br/>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p>Positive</p></i>.</td>
+<i></i><p>Positive.</p></td>
 <td valign="MIDDLE" width="33%">
-<i><p>Negative</p></i>.</td>
+<i></i><p>Negative.</p></td>
 </tr>
 <tr><td rowspan="3" valign="MIDDLE" width="33%">
 <p>Major Arcana</p></td>
@@ -957,9 +957,9 @@ Knave of Pentacles,<br/>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p>Positive</p></i>.</td>
+<i></i><p>Positive.</p></td>
 <td valign="MIDDLE" width="33%">
-<i><p>Negative</p></i>.</td>
+<i></i><p>Negative.</p></td>
 </tr>
 <tr><td rowspan="3" valign="MIDDLE" width="33%">
 <p>Major Arcana</p></td>
@@ -1024,7 +1024,7 @@ Knave of Pentacles,<br/>
 <tr><td valign="TOP" width="50%">
 <p align="CENTER"><i>Positive</i>.</p></td>
 <td valign="TOP" width="50%">
-<i><p align="CENTER">Negative</p></i>.</td>
+<i></i><p align="CENTER">Negative.</p></td>
 </tr>
 <tr><td valign="TOP" width="50%">
 <p align="CENTER">Arcanum 19</p></td>
@@ -1082,8 +1082,8 @@ Knave of Pentacles,<br/>
 <tr><td valign="MIDDLE" width="33%">
 <p> </p></td>
 <td valign="MIDDLE" width="33%">
-<i><p align="CENTER">vau</p></i> <br/>
-3</td>
+<i></i><p align="CENTER">vau <br/>
+3</p></td>
 <td valign="MIDDLE" width="33%">
 <p> </p></td>
 </tr>
@@ -1128,8 +1128,8 @@ Knave of Pentacles,<br/>
 <td valign="MIDDLE" width="20%">
 <p> </p></td>
 <td valign="MIDDLE" width="20%">
-<i><p align="CENTER">vau</p></i> <br/>
-3</td>
+<i></i><p align="CENTER">vau <br/>
+3</p></td>
 <td valign="MIDDLE" width="20%">
 <p> </p></td>
 <td valign="MIDDLE" width="20%">
@@ -1152,8 +1152,8 @@ Knave of Pentacles,<br/>
 <p align="CENTER">SHOWING THE SENSE OF EACH OF THE 22 MAJOR ARCANA</p></td>
 </tr>
 <tr><td valign="TOP" width="21%">
-<i><p align="CENTER">yod</p></i><br/>
-positive or creative series</td>
+<i></i><p align="CENTER">yod<br/>
+positive or creative series</p></td>
 <td valign="TOP" width="11%">
 <p align="CENTER">1.</p></td>
 <td valign="TOP" width="11%">
@@ -1188,8 +1188,8 @@ negative or preservative series</p></td>
 <p align="CENTER">20.</p></td>
 </tr>
 <tr><td valign="TOP" width="21%">
-<i><p align="CENTER">vau</p></i><br/>
-neuter or transforming series equilibrium</td>
+<i></i><p align="CENTER">vau<br/>
+neuter or transforming series equilibrium</p></td>
 <td valign="TOP" width="11%">
 <p align="CENTER">3.</p></td>
 <td valign="TOP" width="11%">
@@ -1235,15 +1235,15 @@ negative</p></td>
 <tr><td valign="TOP" width="21%">
 <p> </p></td>
 <td colspan="2" valign="TOP" width="23%">
-<i><p align="CENTER">yod</p></i> <br/>
-positive or creative series</td>
+<i></i><p align="CENTER">yod <br/>
+positive or creative series</p></td>
 <td colspan="2" valign="TOP" width="23%">
-<i><p align="CENTER">he</p></i> <br/>
-negative or preservative series</td>
+<i></i><p align="CENTER">he <br/>
+negative or preservative series</p></td>
 <td colspan="2" valign="TOP" width="23%">
-<i><p align="CENTER">vau</p></i> <br/>
+<i></i><p align="CENTER">vau <br/>
 neuter or transforming series<br/>
-equilibrium</td>
+equilibrium</p></td>
 <td valign="TOP" width="11%">
 <p align="CENTER">2nd <i>he</i> <br/>
 transitional series</p></td>
@@ -1269,7 +1269,7 @@ transitional series</p></td>
 <td valign="MIDDLE" width="20%">
 <p> </p></td>
 <td valign="MIDDLE" width="20%">
-<i><p align="CENTER">Positive </p></i></td>
+<i></i><p align="CENTER">Positive </p></td>
 <td valign="MIDDLE" width="20%">
 <p> </p></td>
 <td valign="MIDDLE" width="20%">
@@ -1288,7 +1288,7 @@ transitional series</p></td>
 <p> </p></td>
 </tr>
 <tr><td valign="MIDDLE" width="20%">
-<i><p align="CENTER">Negative</p></i> Reflex of <i>yod</i> </td>
+<i></i><p align="CENTER">Negative Reflex of <i>yod</i> </p></td>
 <td valign="MIDDLE" width="20%">
 <p align="CENTER">(2) <i>he</i> </p></td>
 <td valign="MIDDLE" width="20%">
@@ -1297,15 +1297,15 @@ transitional series</p></td>
 <td valign="MIDDLE" width="20%">
 <p align="CENTER">2nd <i>he</i> (4)</p></td>
 <td valign="MIDDLE" width="20%">
-<i><p align="CENTER">Transition yod</p></i> of the following series</td>
+<i></i><p align="CENTER">Transition yod of the following series</p></td>
 </tr>
 <tr><td valign="MIDDLE" width="20%">
 <p> </p></td>
 <td valign="MIDDLE" width="20%">
 <p> </p></td>
 <td valign="MIDDLE" width="20%">
-<i><p align="CENTER">vau</p></i> <br/>
-3</td>
+<i></i><p align="CENTER">vau <br/>
+3</p></td>
 <td valign="MIDDLE" width="20%">
 <p> </p></td>
 <td valign="MIDDLE" width="20%">
@@ -1316,8 +1316,8 @@ transitional series</p></td>
 <td valign="MIDDLE" width="20%">
 <p> </p></td>
 <td valign="MIDDLE" width="20%">
-<i><p align="CENTER">Neuter</p></i> <br/>
-Union of <i>yod</i> and of <i>he</i> </td>
+<i></i><p align="CENTER">Neuter <br/>
+Union of <i>yod</i> and of <i>he</i> </p></td>
 <td valign="MIDDLE" width="20%">
 <p> </p></td>
 <td valign="MIDDLE" width="20%">
@@ -1952,7 +1952,7 @@ First cause</p></td>
 <tr><td valign="TOP" width="50%">
 <p align="CENTER"><i>Superior Section</i> or Bishbur:</p></td>
 <td valign="TOP" width="50%">
-<i><p align="CENTER">Inferior Section</p></i> or Kunbur:</td>
+<i></i><p align="CENTER">Inferior Section or Kunbur:</p></td>
 </tr>
 <tr><td valign="TOP" width="50%">
 <p>Crowns</p></td>
@@ -1981,13 +1981,13 @@ First cause</p></td>
 <p align="CENTER">MAJOR ARCANA.</p></td>
 </tr>
 <tr><td valign="TOP" width="17%">
-<i><p>yod</p></i></td>
+<i></i><p>yod</p></td>
 <td valign="TOP" width="17%">
-<i><p>he</p></i></td>
+<i></i><p>he</p></td>
 <td valign="TOP" width="17%">
-<i><p>vau</p></i></td>
+<i></i><p>vau</p></td>
 <td valign="TOP" width="17%">
-<i><p>he</p></i></td>
+<i></i><p>he</p></td>
 <td valign="TOP" width="17%">
 <p> </p></td>
 <td valign="TOP" width="17%">
@@ -2555,25 +2555,25 @@ First cause</p></td>
 <tr><td valign="TOP" width="33%">
 <p> </p></td>
 <td valign="TOP" width="33%">
-<i><p align="CENTER">Neuter</p></i> <br/>
+<i></i><p align="CENTER">Neuter <br/>
 ∞<br/>
-SYNTHETIC PRINCIPLE</td>
+SYNTHETIC PRINCIPLE</p></td>
 <td valign="TOP" width="33%">
 <p> </p></td>
 </tr>
 <tr><td valign="TOP" width="33%">
-<i><p align="CENTER">Negative</p></i> <br/>
+<i></i><p align="CENTER">Negative <br/>
 -<br/>
 NEGATIVE PRINCIPLE<br/>
-2</td>
+2</p></td>
 <td valign="TOP" width="33%">
 <p align="CENTER"><a name="img_19800"></a>
 <img src="img/19800.jpg"/></p></td>
 <td valign="TOP" width="33%">
-<i><p align="CENTER">Positive</p></i> <br/>
+<i></i><p align="CENTER">Positive <br/>
 +<br/>
 POSITIVE PRINCIPLE<br/>
-1</td>
+1</p></td>
 </tr>
 </table><table border="0" cellpadding="9" cellspacing="0" width="798">
 <tr><td valign="TOP" width="33%">
@@ -2704,17 +2704,17 @@ GOD THE HOLY SPIRIT</p></td>
 <tr><td valign="TOP" width="50%">
 <p align="CENTER"><i>Adam</i> </p></td>
 <td valign="TOP" width="50%">
-<i><p align="CENTER">Will</p></i> </td>
+<i></i><p align="CENTER">Will </p></td>
 </tr>
 <tr><td valign="TOP" width="50%">
-<i><p align="CENTER">Natura Naturans </p></i></td>
+<i></i><p align="CENTER">Natura Naturans </p></td>
 <td valign="TOP" width="50%">
-<i><p align="CENTER">Power</p></i> </td>
+<i></i><p align="CENTER">Power </p></td>
 </tr>
 <tr><td valign="TOP" width="50%">
 <p align="CENTER">Then their form</p></td>
 <td valign="TOP" width="50%">
-<i><p align="CENTER">The Universal Creative Fluid</p></i>.</td>
+<i></i><p align="CENTER">The Universal Creative Fluid.</p></td>
 </tr>
 </table><table border="" cellpadding="8" cellspacing="1" width="779">
 <tr><td valign="TOP" width="20%">
@@ -3563,13 +3563,13 @@ HUMANITY</p></td>
 <p> </p></td>
 </tr>
 <tr><td valign="TOP" width="17%">
-<i><p>Knave</p></i> </td>
+<i></i><p>Knave </p></td>
 <td valign="TOP" width="17%">
 <p>10</p></td>
 <td valign="TOP" width="17%">
-<i><p>Transition</p></i> </td>
+<i></i><p>Transition </p></td>
 <td valign="TOP" width="17%">
-<i><p>Epagomene</p></i> </td>
+<i></i><p>Epagomene </p></td>
 <td valign="TOP" width="17%">
 <p> </p></td>
 <td valign="TOP" width="17%">
@@ -3693,13 +3693,13 @@ HUMANITY</p></td>
 <p> </p></td>
 </tr>
 <tr><td valign="TOP" width="17%">
-<i><p>Knave</p></i> </td>
+<i></i><p>Knave </p></td>
 <td valign="TOP" width="17%">
 <p>10</p></td>
 <td valign="TOP" width="17%">
-<i><p>Transition</p></i> </td>
+<i></i><p>Transition </p></td>
 <td valign="TOP" width="17%">
-<i><p>Epagomene</p></i> </td>
+<i></i><p>Epagomene </p></td>
 <td valign="TOP" width="17%">
 <p> </p></td>
 <td valign="TOP" width="17%">
@@ -3823,13 +3823,13 @@ HUMANITY</p></td>
 <p> </p></td>
 </tr>
 <tr><td valign="TOP" width="17%">
-<i><p>Knave</p></i> </td>
+<i></i><p>Knave </p></td>
 <td valign="TOP" width="17%">
 <p>10</p></td>
 <td valign="TOP" width="17%">
-<i><p>Transition</p></i> </td>
+<i></i><p>Transition </p></td>
 <td valign="TOP" width="17%">
-<i><p>Epagomene</p></i> </td>
+<i></i><p>Epagomene </p></td>
 <td valign="TOP" width="17%">
 <p> </p></td>
 <td valign="TOP" width="17%">
@@ -3953,13 +3953,13 @@ HUMANITY</p></td>
 <p> </p></td>
 </tr>
 <tr><td valign="TOP" width="17%">
-<i><p>Knave</p></i> </td>
+<i></i><p>Knave </p></td>
 <td valign="TOP" width="17%">
 <p>10</p></td>
 <td valign="TOP" width="17%">
-<i><p>Transition</p></i> </td>
+<i></i><p>Transition </p></td>
 <td valign="TOP" width="17%">
-<i><p>Epagomene</p></i> </td>
+<i></i><p>Epagomene </p></td>
 <td valign="TOP" width="17%">
 <p> </p></td>
 <td valign="TOP" width="17%">
@@ -4746,7 +4746,7 @@ Commerce</p></td>
 <td valign="TOP" width="38%">
 <p>=</p></td>
 <td valign="TOP" width="29%">
-<u><p align="RIGHT">     5</p></u></td>
+<u></u><p align="RIGHT">     5</p></td>
 </tr>
 <tr><td valign="TOP" width="33%">
 <p>Total</p></td>
@@ -4757,67 +4757,67 @@ Commerce</p></td>
 </tr>
 </table><table border="0" cellpadding="9" cellspacing="0" width="669">
 <tr><td valign="TOP" width="33%">
-<i><p>The Sceptres </p></i></td>
+<i></i><p>The Sceptres </p></td>
 <td valign="TOP" width="33%">
 <p>represent</p></td>
 <td valign="TOP" width="33%">
-<i><p>Enterprise and Glory</p></i>.</td>
+<i></i><p>Enterprise and Glory.</p></td>
 </tr>
 <tr><td valign="TOP" width="33%">
-<i><p>The Cups </p></i></td>
+<i></i><p>The Cups </p></td>
 <td valign="TOP" width="33%">
 <p>---</p></td>
 <td valign="TOP" width="33%">
-<i><p>Love and Happiness</p></i>.</td>
+<i></i><p>Love and Happiness.</p></td>
 </tr>
 <tr><td valign="TOP" width="33%">
-<i><p>The Swords </p></i></td>
+<i></i><p>The Swords </p></td>
 <td valign="TOP" width="33%">
 <p>---</p></td>
 <td valign="TOP" width="33%">
-<i><p>Hatred and Misfortune</p></i>.</td>
+<i></i><p>Hatred and Misfortune.</p></td>
 </tr>
 <tr><td valign="TOP" width="33%">
-<i><p>The Pentacles </p></i></td>
+<i></i><p>The Pentacles </p></td>
 <td valign="TOP" width="33%">
 <p>---</p></td>
 <td valign="TOP" width="33%">
-<i><p>Money and Interest</p></i>.</td>
+<i></i><p>Money and Interest.</p></td>
 </tr>
 </table><table border="0" cellpadding="9" cellspacing="0" width="666">
 <tr><td valign="TOP" width="34%">
-<i><p>The King </p></i></td>
+<i></i><p>The King </p></td>
 <td valign="TOP" width="33%">
 <p>represents</p></td>
 <td valign="TOP" width="33%">
-<i><p>Man</p></i>.</td>
+<i></i><p>Man.</p></td>
 </tr>
 <tr><td valign="TOP" width="34%">
-<i><p>The Queen </p></i></td>
+<i></i><p>The Queen </p></td>
 <td valign="TOP" width="33%">
 <p>---</p></td>
 <td valign="TOP" width="33%">
-<i><p>Woman</p></i>.</td>
+<i></i><p>Woman.</p></td>
 </tr>
 <tr><td valign="TOP" width="34%">
-<i><p>The Knight </p></i></td>
+<i></i><p>The Knight </p></td>
 <td valign="TOP" width="33%">
 <p>---</p></td>
 <td valign="TOP" width="33%">
-<i><p>A Young Man</p></i>.</td>
+<i></i><p>A Young Man.</p></td>
 </tr>
 <tr><td valign="TOP" width="34%">
-<i><p>The Knave </p></i></td>
+<i></i><p>The Knave </p></td>
 <td valign="TOP" width="33%">
 <p>---</p></td>
 <td valign="TOP" width="33%">
-<i><p>A Child</p></i>.</td>
+<i></i><p>A Child.</p></td>
 </tr>
 </table><table border="" cellpadding="9" cellspacing="1" width="798">
 <tr><td valign="MIDDLE" width="50%">
 <p>1. Commencement</p></td>
 <td rowspan="3" valign="MIDDLE" width="50%">
-<i><p>of Commencement</p></i>.</td>
+<i></i><p>of Commencement.</p></td>
 </tr>
 <tr><td valign="MIDDLE" width="50%">
 <p>2. Opposition</p></td>
@@ -4828,7 +4828,7 @@ Commerce</p></td>
 <tr><td valign="MIDDLE" width="50%">
 <p>4. Commencement</p></td>
 <td rowspan="3" valign="MIDDLE" width="50%">
-<i><p>of Opposition</p></i>.</td>
+<i></i><p>of Opposition.</p></td>
 </tr>
 <tr><td valign="MIDDLE" width="50%">
 <p>5. Opposition</p></td>
@@ -4839,7 +4839,7 @@ Commerce</p></td>
 <tr><td valign="MIDDLE" width="50%">
 <p>7. Commencement</p></td>
 <td rowspan="3" valign="MIDDLE" width="50%">
-<i><p>of Equilibrium</p></i>.</td>
+<i></i><p>of Equilibrium.</p></td>
 </tr>
 <tr><td valign="MIDDLE" width="50%">
 <p>8. Opposition</p></td>
@@ -5271,12 +5271,12 @@ Old Age</p></td>
 <p align="CENTER">ה</p></td>
 </tr>
 <tr><td valign="TOP" width="25%">
-<i><p align="CENTER">Yod</p></i></td>
+<i></i><p align="CENTER">Yod</p></td>
 <td valign="TOP" width="25%">
-<i><p align="CENTER">He</p></i></td>
+<i></i><p align="CENTER">He</p></td>
 <td valign="TOP" width="25%">
-<i><p align="CENTER">Vau</p></i></td>
+<i></i><p align="CENTER">Vau</p></td>
 <td valign="TOP" width="25%">
-<i><p align="CENTER">He</p></i></td>
+<i></i><p align="CENTER">He</p></td>
 </tr>
 </table>

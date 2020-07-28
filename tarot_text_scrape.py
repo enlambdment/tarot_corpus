@@ -7,7 +7,7 @@ import copy
 
 
 
-def url_to_soup(url, parser='html.parser'):
+def url_to_soup(url, parser='lxml'):
 	'''
 	Given the url for a text's front page, and an HTML parser 
 	(e.g. 'html.parser', 'html5lib', 'lxml'), get its parsed HTML.
@@ -37,7 +37,7 @@ def name_htm_search(name):
 	name_comp = re.compile(name_re)
 	return name_comp
 
-def get_sub_htms(url, parser='html.parser'):
+def get_sub_htms(url, parser='lxml'):
 	'''
 	Given the front page of a text, and an HTML parser 
 	(e.g. 'html.parser', 'html5lib', 'lxml'), extract all the 
@@ -100,19 +100,23 @@ def is_bad_tag(tag, htms):
 		*	It is a 'font' tag having a 'color' attribute such that
 			tag['color'].lower() == 'green' (these are editorial insertions)
 			!	*unless the redactor's name appears in the tag's text* - 
-				these attributions must not be removed. 
+				these attributions must not be removed; or
+		*	It is a 'a' tag having an 'img' element (these are clickable
+			elements with links to the enlarged image)  
 	'''
 	if (tag.name == 'center' 		and tag.a 
 		and 'href' in tag.a.attrs 	and tag.a['href'] in htms):
 		return True
-	elif (tag.name == 'font' and 'color' in tag.attrs 
-		and tag['color'].lower() == 'green'):
+	elif (tag.name == 'font' 	and 'color' in tag.attrs 
+		  and tag['color'].lower() == 'green'):
 		# If redactor's name appears in tag.text, then not a bad tag - 
 		# include in corpus text. (search, NOT match)
 		if redactor_search.search(tag.text):
 			return False
 		else:
 			return True
+	elif (tag.name == 'a' 	and tag.img):
+		return True
 	else:
 		return False
 
@@ -163,7 +167,7 @@ def process_soup(soup, htms):	# -> (str, List[bs4.element.Tag])
 
 	return output_str, output_tbls
 
-def make_file_for_corpus(url, parser='html.parser'): # -> None
+def make_file_for_corpus(url, parser='lxml'): # -> None
 	'''
 	Given an url, and an HTML parser (e.g. 'html.parser', 'html5lib', 'lxml'),
 	produce a file for the corpus text extracted from that
@@ -207,7 +211,7 @@ def make_file_for_corpus(url, parser='html.parser'): # -> None
 					f_tbl.write(str(tbl))
 
 # put this into a separate 'main.py' file?
-def make_corpus(parser='html.parser'):
+def make_corpus(parser='lxml'):
 	'''
 	Given an HTML parser (e.g. 'html.parser', 'html5lib', 'lxml'),
 	use 'tarot_front_pages.txt', at the same directory level as this Python

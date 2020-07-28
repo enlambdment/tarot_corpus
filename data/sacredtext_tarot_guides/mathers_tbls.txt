@@ -2,11 +2,11 @@
 <tr><td valign="MIDDLE" width="25%">
 <p><i>Italian.</i></p></td>
 <td valign="MIDDLE" width="25%">
-<i><p>French .</p></i></td>
+<i></i><p>French .</p></td>
 <td valign="MIDDLE" width="25%">
-<i><p>English.</p></i></td>
+<i></i><p>English.</p></td>
 <td valign="MIDDLE" width="25%">
-<i><p>Answering to</p></i></td>
+<i></i><p>Answering to</p></td>
 </tr>
 <tr><td valign="MIDDLE" width="25%">
 <p>Bastoni</p></td>
@@ -48,7 +48,301 @@
 <tr><td valign="MIDDLE" width="3%">
 <p><b><i>No.</i> </b></p></td>
 <td valign="MIDDLE" width="31%">
-<b><i><p>Italian. </p></i></b></td></tr></table><table border="" cellspacing="1">
+<b><i></i></b><p>Italian. </p></td>
+<td valign="MIDDLE" width="31%">
+<b><i></i></b><p>French</p></td>
+<td valign="MIDDLE" width="20%">
+<b><i></i></b><p>English. </p></td>
+<td colspan="2" valign="MIDDLE" width="15%">
+<b><i></i></b><p>Hebrew  Letter. </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>1. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Il Bagatto (PAGAD)</p></td>
+<td valign="MIDDLE" width="31%">
+<p>Le Bateleur</p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Juggler or Magician</p></td>
+<td valign="MIDDLE" width="12%">
+<p>Aleph.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>A </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>2. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Papessa</p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Papesse</p></td>
+<td valign="MIDDLE" width="20%">
+<p>The High Priestess, or Female Pope</p></td>
+<td valign="MIDDLE" width="12%">
+<p>Beth.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>B </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>3. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>L'Imperatrice</p></td>
+<td valign="MIDDLE" width="31%">
+<p>L'Impératrice</p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Empress</p></td>
+<td valign="MIDDLE" width="12%">
+<p>Gimel.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>G </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>4. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>L'Imperatore</p></td>
+<td valign="MIDDLE" width="31%">
+<p>L'Empereur</p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Emperor</p></td>
+<td valign="MIDDLE" width="12%">
+<p>Daleth. </p></td>
+<td valign="MIDDLE" width="3%">
+<p>D </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>5. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Il Papa</p></td>
+<td valign="MIDDLE" width="31%">
+<p>Le Pape </p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Hierophant or Pope</p></td>
+<td valign="MIDDLE" width="12%">
+<p>He.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>H </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>6. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Gli Amanti</p></td>
+<td valign="MIDDLE" width="31%">
+<p>L'Amoureux</p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Lovers</p></td>
+<td valign="MIDDLE" width="12%">
+<p>Vau.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>V </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>7. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Il Carro</p></td>
+<td valign="MIDDLE" width="31%">
+<p>Le Chariot</p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Chariot</p></td>
+<td valign="MIDDLE" width="12%">
+<p>Zain.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>Z </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>8. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Giustizia</p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Justice</p></td>
+<td valign="MIDDLE" width="20%">
+<p>Justice</p></td>
+<td valign="MIDDLE" width="12%">
+<p>Cheth.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>CH </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>9. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>L'Eremita</p></td>
+<td valign="MIDDLE" width="31%">
+<p>L'Ermite</p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Hermit</p></td>
+<td valign="MIDDLE" width="12%">
+<p>Teth.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>T </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>10. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Rota Di Fortuna</p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Roue de Fortune</p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Wheel of Fortune </p></td>
+<td valign="MIDDLE" width="12%">
+<p>Yod.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>I </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>11. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Forza</p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Force</p></td>
+<td valign="MIDDLE" width="20%">
+<p>Strength, Fortitude </p></td>
+<td valign="MIDDLE" width="12%">
+<p>Kaph.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>K </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>12. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Il Penduto</p></td>
+<td valign="MIDDLE" width="31%">
+<p>Le Pendu </p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Hanged Man </p></td>
+<td valign="MIDDLE" width="12%">
+<p>Lamed.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>L </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>13. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Il Morte</p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Mort </p></td>
+<td valign="MIDDLE" width="20%">
+<p>Death</p></td>
+<td valign="MIDDLE" width="12%">
+<p>Mem.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>M </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>14. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Temperanza </p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Temperance </p></td>
+<td valign="MIDDLE" width="20%">
+<p>Temperance </p></td>
+<td valign="MIDDLE" width="12%">
+<p>Nun.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>N </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>15. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Il Diavolo </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Le Diable </p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Devil </p></td>
+<td valign="MIDDLE" width="12%">
+<p>Samech.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>S </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>16. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Torre</p></td>
+<td valign="MIDDLE" width="31%">
+<p>Le Maison-Dieu </p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Lightning-struck Tower </p></td>
+<td valign="MIDDLE" width="12%">
+<p>Ayin.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>O </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>17. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Le Stelle </p></td>
+<td valign="MIDDLE" width="31%">
+<p>L'Etoile </p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Star </p></td>
+<td valign="MIDDLE" width="12%">
+<p>Pe.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>P </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>18. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Luna </p></td>
+<td valign="MIDDLE" width="31%">
+<p>La Lune </p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Moon </p></td>
+<td valign="MIDDLE" width="12%">
+<p>Tzaddi.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>Tz </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>19. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Il Sole </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Le Soleil </p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Sun </p></td>
+<td valign="MIDDLE" width="12%">
+<p>Qoph.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>Q </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>20. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>L'Angelo</p></td>
+<td valign="MIDDLE" width="31%">
+<p>Le Jugement </p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Last Judgment </p></td>
+<td valign="MIDDLE" width="12%">
+<p>Resh.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>R </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>0. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Il Matto (MAT)</p></td>
+<td valign="MIDDLE" width="31%">
+<p>Le Fou </p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Foolish Man </p></td>
+<td valign="MIDDLE" width="12%">
+<p>Shin.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>SH </p></td>
+</tr>
+<tr><td valign="MIDDLE" width="3%">
+<p>21. </p></td>
+<td valign="MIDDLE" width="31%">
+<p>Il Mondo</p></td>
+<td valign="MIDDLE" width="31%">
+<p>Le Monde </p></td>
+<td valign="MIDDLE" width="20%">
+<p>The Universe </p></td>
+<td valign="MIDDLE" width="12%">
+<p>Tau.</p></td>
+<td valign="MIDDLE" width="3%">
+<p>TH </p></td>
+</tr>
+</table><table border="" cellspacing="1">
 <tr><td valign="MIDDLE">
 <p>7,</p></td>
 <td valign="MIDDLE">
