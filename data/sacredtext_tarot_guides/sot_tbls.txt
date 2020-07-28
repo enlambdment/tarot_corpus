@@ -1,0 +1,57 @@
+<table border="0" cellpadding="9" cellspacing="0" width="798">
+<tr><td valign="TOP" width="50%">
+<p>1 The Magician.</p></td>
+<td valign="TOP" width="50%">
+<p>12 The Hanged Man.</p></td>
+</tr>
+<tr><td valign="TOP" width="50%">
+<p>2 The High Priestess.</p></td>
+<td valign="TOP" width="50%">
+<p>13 Death.</p></td>
+</tr>
+<tr><td valign="TOP" width="50%">
+<p>3 The Empress.</p></td>
+<td valign="TOP" width="50%">
+<p>14 Temperance.</p></td>
+</tr>
+<tr><td valign="TOP" width="50%">
+<p>4 The Emperor.</p></td>
+<td valign="TOP" width="50%">
+<p>15 The Devil.</p></td>
+</tr>
+<tr><td valign="TOP" width="50%">
+<p>5 The Chariot. (7).</p></td>
+<td valign="TOP" width="50%">
+<p>16 The Tower.</p></td>
+</tr>
+<tr><td valign="TOP" width="50%">
+<p>6 The Lovers.</p></td>
+<td valign="TOP" width="50%">
+<p>17 The Star.</p></td>
+</tr>
+<tr><td valign="TOP" width="50%">
+<p>7 The Hierophant. (5).</p></td>
+<td valign="TOP" width="50%">
+<p>18 The Moon.</p></td>
+</tr>
+<tr><td valign="TOP" width="50%">
+<p>8 Strength.</p></td>
+<td valign="TOP" width="50%">
+<p>19 The Sun.</p></td>
+</tr>
+<tr><td valign="TOP" width="50%">
+<p>9 The Hermit.</p></td>
+<td valign="TOP" width="50%">
+<p>20 judgment.</p></td>
+</tr>
+<tr><td valign="TOP" width="50%">
+<p>10 The Wheel of Fortune.</p></td>
+<td valign="TOP" width="50%">
+<p>21 The World.</p></td>
+</tr>
+<tr><td valign="TOP" width="50%">
+<p>11 Justice.</p></td>
+<td valign="TOP" width="50%">
+<p>0 The Fool.</p></td>
+</tr>
+</table>
