@@ -28,6 +28,29 @@ Once you're finished:
 deactivate
 ```
 
+## Note for `nltk` use
+
+`nltk` is an additional library not in `requirements.txt`. Launch the first series of commands, to clone / activate virtual environment / install libraries, in 'Set-up section'. Then:
+
+```
+pip3 install nltk
+```
+
+You can continue to run `tarot_text_scrape.py` script and `make_corpus()` method. Then:
+
+```
+>>> from nltk.corpus import PlaintextCorpusReader
+>>> corpus_root = './data/sacredtext_tarot_guides'
+>>> wordlists = PlaintextCorpusReader(corpus_root, '^((?!_tbls).)*.txt')
+```
+
+As of this writing (_7/31/2020_) the negative lookahead expression is needed in order to exclude the '\_tbls.txt' files, which are unprocessed HTML.
+
+```
+>>> wordlists.fileids()
+['gbt.txt', 'mathers.txt', 'pkt.txt', 'sot.txt', 'tob.txt']
+```
+
 ## Background
 
 The _Sacred Texts_ online archive includes a section on [tarot](https://sacred-texts.com/tarot/), with public-domain texts edited and typeset to HTML by John Bruno Hare. Tarot originally was a deck of playing cards whose use dates back to the mid-15th century in certain parts of Europe: today, tarot most commonly refers both to this deck (which has evolved into many non-standard forms in the 21st century) and the practices of divination, fortune-telling, _etc._ which have developed based upon that deck, from the late 18th century onward. 
